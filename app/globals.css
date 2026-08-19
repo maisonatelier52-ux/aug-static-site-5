@@ -1,0 +1,40 @@
+@import "tailwindcss";
+
+/* Shared design tokens (color palette + serif font) used across components as
+   Tailwind utilities, e.g. bg-green, text-ink, font-serif. */
+@theme {
+  --color-ink: #102435;
+  --color-green: #006653;
+  --color-green-dark: #005648;
+  --color-paper: #f7f8f5;
+  --color-line: #b8ceca;
+  --color-muted: #62706f;
+  --color-cream: #f1eee6;
+  --color-lime: #b6d400;
+  --color-blue: #2f91c5;
+  --color-red: #ba2e2e;
+  --color-orange: #d7652e;
+  --font-serif: Georgia, "Times New Roman", serif;
+}
+
+/* Sitewide element defaults that would otherwise have to be repeated on
+   every single <a>/<button>/<input> and every page's <html>/<body>. */
+html {
+  scroll-behavior: smooth;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}

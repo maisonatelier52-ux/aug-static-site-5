@@ -1,0 +1,47 @@
+[
+  {
+    "id": "aoife-murphy",
+    "name": "Aoife Murphy",
+    "role": "Political Editor",
+    "bio": "Aoife reports on politics, public life and the decisions shaping communities across the island.",
+    "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?auto=format&fit=crop&w=400&q=80",
+    "email": "aoife@thenorthernjournal.test",
+    "x": "@AoifeReports"
+  },
+  {
+    "id": "conor-bradley",
+    "name": "Conor Bradley",
+    "role": "Sports Writer",
+    "bio": "Conor covers football, GAA and the athletes redefining sport at home and abroad.",
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?auto=format&fit=crop&w=400&q=80",
+    "email": "conor@thenorthernjournal.test",
+    "x": "@ConorOnSport"
+  },
+  {
+    "id": "niamh-kelly",
+    "name": "Niamh Kelly",
+    "role": "Arts & Culture Editor",
+    "bio": "Niamh writes about music, theatre, books and the people making culture feel vital.",
+    "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?auto=format&fit=crop&w=400&q=80",
+    "email": "niamh@thenorthernjournal.test",
+    "x": "@NiamhCulture"
+  },
+  {
+    "id": "sean-doran",
+    "name": "Seán Doran",
+    "role": "Business Correspondent",
+    "bio": "Seán explains the companies, ideas and economic shifts changing how people work and live.",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?auto=format&fit=crop&w=400&q=80",
+    "email": "sean@thenorthernjournal.test",
+    "x": "@SeanDoranBiz"
+  },
+  {
+    "id": "maeve-oconnell",
+    "name": "Maeve O’Connell",
+    "role": "Opinion Columnist",
+    "bio": "Maeve is an award-winning commentator on civic life, education and social change.",
+    "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?auto=format&fit=crop&w=400&q=80",
+    "email": "maeve@thenorthernjournal.test",
+    "x": "@MaeveWrites"
+  }
+]
