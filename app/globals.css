@@ -4,8 +4,8 @@
    Tailwind utilities, e.g. bg-green, text-ink, font-serif. */
 @theme {
   --color-ink: #102435;
-  --color-green: #006653;
-  --color-green-dark: #005648;
+  --color-green: #c1272d;
+  --color-green-dark: #0d0d0d;
   --color-paper: #f7f8f5;
   --color-line: #b8ceca;
   --color-muted: #62706f;
