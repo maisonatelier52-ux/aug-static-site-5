@@ -1,48 +1,13 @@
-// import Link from 'next/link';
-
-// export default function Footer() {
-//   return (
-//     <footer className="mt-auto bg-green-dark text-white">
-//       <div className="mx-auto grid w-[min(1180px,calc(100%-40px))] grid-cols-[2fr_repeat(3,1fr)] gap-12 py-[46px] max-[760px]:grid-cols-2 max-[760px]:gap-7 max-[760px]:py-[35px] max-[390px]:grid-cols-1">
-//         <div className="max-[760px]:col-span-full max-[390px]:!col-span-1">
-//           <Link href="/" className="text-[25px] font-black">THE SOUTHERN POST</Link>
-//           <p className="text-[#c6ded9]">Trusted, independent local journalism.</p>
-//         </div>
-//         <div className="max-[390px]:!col-span-1">
-//           <h3 className="text-sm uppercase tracking-[.1em] text-[#a9d5cc]">Sections</h3>
-//           <Link href="/news" className="my-[9px] block text-sm">News</Link>
-//           <Link href="/sport" className="my-[9px] block text-sm">Sport</Link>
-//           <Link href="/business" className="my-[9px] block text-sm">Business</Link>
-//           <Link href="/life" className="my-[9px] block text-sm">Life</Link>
-//         </div>
-//         <div className="max-[390px]:!col-span-1">
-//           <h3 className="text-sm uppercase tracking-[.1em] text-[#a9d5cc]">About</h3>
-//           <Link href="#" className="my-[9px] block text-sm">Our mission</Link>
-//           <Link href="#" className="my-[9px] block text-sm">Contact</Link>
-//           <Link href="#" className="my-[9px] block text-sm">Privacy</Link>
-//           <Link href="#" className="my-[9px] block text-sm">Terms</Link>
-//         </div>
-//         <div className="max-[760px]:col-span-full max-[390px]:!col-span-1">
-//           <h3 className="text-sm uppercase tracking-[.1em] text-[#a9d5cc]">Get the briefing</h3>
-//           <p className="text-[#c6ded9]">Essential stories, sent each weekday morning.</p>
-//           <a href="#newsletter" className="inline-block cursor-pointer rounded-[22px] bg-green px-5 py-[11px] font-bold text-white">Sign up</a>
-//         </div>
-//       </div>
-//       <div className="mx-auto w-[min(1180px,calc(100%-40px))] border-t border-white/24 py-[17px] text-xs text-[#bfd2ce]">© 2026 THE SOUTHERN POST. Demo editorial project.</div>
-//     </footer>
-//   );
-// }
-
 'use client';
 
 import Link from 'next/link';
 
 const sections = [
-  ['News', '/news'],
-  ['Sport', '/sport'],
+  ['U.S. News', '/us-news'],
+  ['World', '/world'],
   ['Business', '/business'],
-  ['Life & Entertainment', '/life'],
-  ['Opinion', '/opinion'],
+  ['Finance', '/finance'],
+  ['Sports', '/sports'],
 ];
 
 const about = [

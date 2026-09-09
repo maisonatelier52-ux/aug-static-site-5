@@ -12,7 +12,7 @@ export default function HomePage({ articles, authors }) {
     <main className="mx-auto w-[min(1180px,calc(100%-40px))] pt-[34px] max-[760px]:pt-[15px]">
       <LeadNews articles={articles.slice(0, 9)} />
       <LatestVideo articles={articles.filter((article) => article.video).slice(0, 5)} />
-      <OpinionStrip authors={authors} />
+      {/* <OpinionStrip authors={authors} /> */}
       <TopicSection title="Sport" slug="sport" tone="lime" articles={byCategory('sport')} />
       <Featured articles={articles.filter((article) => article.featured).slice(0, 3)} />
       <TopicSection title="Politics" slug="news" tone="green" articles={byCategory('news')} flip />

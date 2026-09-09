@@ -1,198 +1,1242 @@
 [
+
   {
     "id": 1,
-    "slug": "new-civic-agreement-promises-fresh-start",
-    "category": "news",
-    "categoryLabel": "News",
-    "title": "New civic agreement promises a fresh start for local communities",
-    "dek": "Leaders say the cross-community package will put neighbourhood priorities at the centre of public investment.",
-    "image": "https://images.unsplash.com/photo-1529107386315-e1a2ed48a620?auto=format&fit=crop&w=1400&q=85",
-    "authorId": "aoife-murphy",
-    "published": "2026-08-18T08:45:00.000Z",
+    "slug": "amazon-cargo-jet-crash-miami-airport-kills-five",
+    "category": "us-news",
+    "categoryLabel": "U.S. News",
+    "title": "Amazon Cargo Jet Crash at Miami Airport Kills Five",
+    "dek": "A Boeing 767 cargo plane overshot a Miami runway and burst into flames, killing five people and reigniting scrutiny of airport safety systems.",
+    "image": "../images/amazon-cargo-jet-crash-miami-airport-kills-five.webp",
+    "authorId": "aoife-murphys",
+    "published": "2026-09-08T09:15:00.000Z",
     "readTime": "6 min read",
     "featured": true,
     "video": false,
-    "takeaways": ["The agreement creates a five-year community renewal fund.", "Local panels will help decide which projects move first.", "The first funding round is expected to open this autumn."],
+    "takeaways": [
+      "An Amazon-operated Boeing 767 overran a Miami runway and struck a nearby road, killing five people.",
+      "Investigators are examining whether the plane landed too far down the runway and why the landing wasn't aborted.",
+      "Miami International Airport has no crash-absorbing arrestor bed at the runway involved, reviving a safety debate."
+    ],
     "content": [
-      {"heading": "A new chapter", "paragraphs": ["A new civic agreement has set out a five-year plan to revive high streets, improve public spaces and support local services. The package brings together councils, community organisations and business groups around a shared set of priorities.", "Supporters described the plan as practical and measurable, with quarterly progress reports promised from the outset."]},
-      {"heading": "What changes first", "paragraphs": ["The first projects will focus on safer walking routes, vacant buildings and small grants for neighbourhood groups. Each district will publish a shortlist before final decisions are made.", "Officials said the process was designed to make local knowledge visible in funding decisions rather than treating consultation as an afterthought."]},
-      {"heading": "Community reaction", "paragraphs": ["Residents welcomed the emphasis on visible improvements but said delivery would be the real test. Several groups called for clear timelines and accessible public reporting.", "The first public meetings are due to begin next month, with project applications expected to follow in the autumn."]}
+      {
+        "heading": "A crash beyond the runway",
+        "paragraphs": [
+          "On Sunday afternoon, a cargo aircraft operated for Amazon's delivery network overran the end of a runway at Miami International Airport after arriving from Puerto Rico. Instead of stopping within the paved surface, the Boeing 767 tore through a security fence and onto a road frequently used by airport and warehouse employees, then erupted into flames. Miami-Dade officials confirmed five people were killed and several others were injured, some critically, making it one of the deadliest ground incidents at a major American airport in recent memory.",
+          "County leaders described the scene as chaotic, with more than sixty fire and rescue units responding within minutes. Crews faced a dual challenge: extinguishing an engine fire that had spread across the fuselage while freeing people trapped inside vehicles the jet had struck. The airport shut down entirely for roughly three hours, and two of its four runways stayed offline well into the evening, triggering delays and cancellations that rippled up and down the East Coast."
+        ]
+      },
+      {
+        "heading": "How the emergency unfolded",
+        "paragraphs": [
+          "Air traffic recordings captured controllers watching the aircraft speed past the point where it should have slowed, alerting emergency crews before the plane had even come to a stop. Tracking data reviewed afterward showed the jet was still traveling at highway speeds when it ran out of pavement, raising early questions about why the landing wasn't aborted and attempted again.",
+          "Miami-Dade Fire Rescue's chief said crews confronted a complex blaze inside the engine compartments while simultaneously working to free occupants pinned inside crushed vehicles on the access road. The county mayor called it one of the most difficult days her department had faced, thanking first responders for a rescue effort complicated by fire, wreckage and a roadway never designed to absorb the impact of a wide-body jet."
+        ]
+      },
+      {
+        "heading": "Questions investigators are asking",
+        "paragraphs": [
+          "The National Transportation Safety Board has sent a team to examine the wreckage, flight data recorders and maintenance history of the aircraft, along with runway conditions at the time of landing. Investigators are focused on two central questions: whether the plane touched down too far along the runway to stop safely, and why the flight crew continued the landing rather than executing a go-around once it became clear the aircraft wasn't slowing as expected.",
+          "A further complication has drawn scrutiny from aviation safety advocates: Miami International Airport has no engineered arrestor bed, the crushable material designed to safely stop an overrunning aircraft, at the end of the runway involved. Federal rules don't require the systems at every airport, and critics argue the crash may reopen a long-running debate over which runways should be required to have them."
+        ]
+      },
+      {
+        "heading": "A cargo hub built for speed, not scrutiny",
+        "paragraphs": [
+          "Miami International Airport ranks among the busiest cargo gateways in the country, handling a steady stream of overnight freight flights that connect the mainland United States to the Caribbean and Latin America. That volume has made it a key node for delivery networks racing to move packages quickly, but aviation safety experts note that cargo operations sometimes draw less public attention than passenger flights, even though the aircraft involved are just as large and just as capable of causing serious harm on the ground.",
+          "Local officials say the airport's perimeter road, where the plane ultimately came to rest, was never intended to absorb the impact of an aircraft this size, despite running close enough to the runway to be used regularly by workers commuting to nearby warehouses and cargo facilities. In the crash's aftermath, some employees have said they want the airport to consider rerouting the road or adding barriers, even as officials caution that any permanent changes would likely take months to design and implement."
+        ]
+      },
+      {
+        "heading": "What comes next",
+        "paragraphs": [
+          "Officials say a preliminary NTSB report is expected within weeks, though a full accounting of the crash's cause is likely to take a year or longer, consistent with the timeline of past runway-overrun investigations. In the meantime, the airport has pledged to review its emergency response protocols and the carrier is cooperating fully with federal investigators.",
+          "For the families of those killed and injured, and for the warehouse workers who use the access road daily, the crash has left a lasting mark on a facility that handles hundreds of flights every day. Airport officials say normal operations have resumed, but community meetings are expected in the coming weeks as residents and airport workers press for answers about how a routine cargo landing turned deadly."
+        ]
+      }
     ]
   },
   {
     "id": 2,
-    "slug": "rhys-brings-the-mcroy-effect-to-irish-gymnastics",
-    "category": "sport",
-    "categoryLabel": "Sport",
-    "title": "Rhys brings the ‘McIlroy effect’ to Irish gymnastics",
-    "dek": "A breakthrough season is inspiring a new generation to take up the sport.",
-    "image": "https://images.unsplash.com/photo-1538805060514-97d9cc17730c?auto=format&fit=crop&w=1200&q=85",
-    "authorId": "conor-bradley",
-    "published": "2026-08-18T08:10:00.000Z",
-    "readTime": "4 min read",
+    "slug": "us-iran-standoff-oil-prices-near-100-dollars",
+    "category": "us-news",
+    "categoryLabel": "U.S. News",
+    "title": "US-Iran Standoff Pushes Oil Prices Toward $100",
+    "dek": "Fighting in the Strait of Hormuz has driven crude toward six-week highs, pushing US gas prices to near-record levels ahead of the harvest.",
+    "image": "../images/us-iran-standoff-oil-prices-near-100-dollars.webp",
+    "authorId": "aoife-murphy",
+    "published": "2026-09-08T10:30:00.000Z",
+    "readTime": "6 min read",
     "featured": true,
     "video": false,
-    "takeaways": ["Club registrations are rising nationwide.", "Coaches say visibility is changing perceptions of the sport."],
-    "content": [{"heading":"A landmark season","paragraphs":["Irish gymnastics is enjoying a rare moment in the national spotlight after a run of performances that made the sport impossible to ignore.","Clubs say young athletes are arriving with new heroes and a clear idea of what elite success can look like."]},{"heading":"The next generation","paragraphs":["Coaches are responding with new beginner sessions and school partnerships. The challenge now is matching enthusiasm with facilities and trained staff."]}]
+    "takeaways": [
+      "Crude oil is nearing $100 a barrel as fighting continues between the US and Iran in the Persian Gulf.",
+      "Iran's plan to restrict traffic through the Strait of Hormuz is squeezing global tanker shipments.",
+      "American drivers and farmers are already feeling the pinch through near-record gas and diesel prices."
+    ],
+    "content": [
+      {
+        "heading": "A conflict spilling into pump prices",
+        "paragraphs": [
+          "The ongoing military standoff between the United States and Iran has pushed global oil prices to their highest level in weeks, with crude edging toward the symbolic $100-a-barrel mark. The increase follows a weekend in which American and Iranian forces exchanged fire in the Persian Gulf, with the U.S. striking three Iranian oil tankers and Tehran vowing what it called a more intense retaliation to come.",
+          "The price pressure has already reached American drivers. Gasoline and diesel prices approached record highs over the Labor Day weekend, with the national average pump price climbing above four dollars a gallon in many regions, driven by both the disruption to tanker traffic and strained domestic refinery capacity."
+        ]
+      },
+      {
+        "heading": "Why the Strait of Hormuz matters",
+        "paragraphs": [
+          "At the center of the standoff is the Strait of Hormuz, the narrow waterway through which a large share of the world's seaborne oil passes each day. Iran has announced plans to introduce a restricted zone in the strait, a move that has further chilled shipping traffic already wary of sailing through a conflict zone, and one traders say is contributing directly to the price spike.",
+          "Analysts tracking the standoff say the reduced tanker traffic is functioning like an informal blockade, even without a formal closure of the waterway. Shipping insurers have reportedly raised premiums for vessels transiting the strait, adding costs that are expected to filter down to consumers in the coming weeks regardless of how the conflict develops."
+        ]
+      },
+      {
+        "heading": "Diplomacy stalls as tensions persist",
+        "paragraphs": [
+          "Diplomatic efforts to de-escalate the standoff have so far struggled to gain traction. Qatar's government said this week it was working alongside China to help restart talks aimed at reopening the strait and ending hostilities, positioning itself as a potential mediator given its own reliance on the waterway for energy exports.",
+          "The president has publicly predicted that oil prices will fall once the conflict concludes in the United States' favor, framing the current spike as a temporary cost of what he has described as a campaign of major operations against Iranian military and infrastructure targets. Iranian officials, for their part, have shown no public sign of backing down, with the country's president vowing over the weekend to continue fighting."
+        ]
+      },
+      {
+        "heading": "The toll on consumers and farmers",
+        "paragraphs": [
+          "The economic ripple effects are being felt well beyond the gas pump. Farmers heading into harvest season say soaring diesel prices are squeezing already thin margins, adding fuel costs to a list of pressures that includes labor and equipment expenses. Trucking and logistics companies have likewise warned that elevated fuel costs could push up shipping costs for a wide range of goods this fall.",
+          "With no clear resolution in sight, economists say the durability of the price spike will depend largely on how long tanker traffic through Hormuz remains suppressed. A prolonged disruption, they caution, could keep gas prices elevated well into the final months of the year, adding another layer of uncertainty for consumers already navigating a period of economic strain."
+        ]
+      },
+      {
+        "heading": "A broader military and economic standoff",
+        "paragraphs": [
+          "The clash over the strait is unfolding alongside a wider military campaign, with officials describing recent weeks as some of the most intense fighting since hostilities began. Beyond the tanker strikes, both sides have exchanged fire around Gulf shipping lanes, and Tehran's warning of a harsher response has raised fears among traders that further escalation could choke off even more of the region's oil traffic in the days ahead.",
+          "Financial markets have so far absorbed the shock without the kind of sharp swings seen during past Middle East crises, but analysts caution that could change quickly if the conflict widens or if Iran follows through on threats to restrict the strait more aggressively. For now, energy traders are treating the roughly hundred-dollar level as a psychological marker worth watching, since prices at or above it have historically coincided with broader inflationary pressure across the U.S. economy."
+        ]
+      }
+    ]
   },
   {
     "id": 3,
-    "slug": "independent-shops-find-new-life-on-the-high-street",
-    "category": "business",
-    "categoryLabel": "Business",
-    "title": "Independent shops find new life on the high street",
-    "dek": "A wave of small businesses is bringing fresh energy to once-empty units.",
-    "image": "https://images.unsplash.com/photo-1556740749-887f6717d7e4?auto=format&fit=crop&w=1200&q=85",
-    "authorId": "sean-doran",
-    "published": "2026-08-18T07:35:00.000Z",
-    "readTime": "5 min read",
+    "slug": "trump-plan-pay-married-stay-at-home-parents-childcare",
+    "category": "us-news",
+    "categoryLabel": "U.S. News",
+    "title": "Trump Plan Would Pay Married Stay-at-Home Parents",
+    "dek": "A draft rule would let stay-at-home married parents tap a child care fund built for working families, alarming providers and advocates.",
+    "image": "../images/trump-plan-pay-married-stay-at-home-parents-childcare.webp",
+    "authorId": "aoife-murphy",
+    "published": "2026-09-08T11:00:00.000Z",
+    "readTime": "6 min read",
     "featured": false,
     "video": false,
-    "takeaways": ["Flexible leases are lowering barriers for new retailers.", "Owners are combining shops with events and online sales."],
-    "content": [{"heading":"Room to experiment","paragraphs":["Shorter leases and shared retail spaces are giving first-time owners an affordable route onto the high street.","Many are combining traditional shops with workshops, events and online fulfilment."]},{"heading":"A patient recovery","paragraphs":["Footfall is improving, but traders say dependable transport and better public spaces remain essential."]}]
+    "takeaways": [
+      "A draft HHS rule would let married couples with a stay-at-home spouse collect child care subsidies for the first time.",
+      "The plan would redirect money from a $12 billion fund that currently serves mostly single working mothers.",
+      "Critics warn the change could force child care providers to raise rates or close, deepening an existing shortage."
+    ],
+    "content": [
+      {
+        "heading": "A new direction for federal child care money",
+        "paragraphs": [
+          "The Trump administration is drafting a rule that would, for the first time, allow a federal child care program built to help working parents pay for outside care to also subsidize married couples in which one spouse stays home full time. The proposal, championed by Vice President JD Vance, would rework the Child Care and Development Fund, a roughly twelve-billion-dollar program that has for decades been reserved for families who need child care so they can work, attend school or complete job training.",
+          "Under the draft plan, a married couple could qualify for aid worth about nine thousand dollars per child each year if one parent remains home while the other works at least thirty-five hours a week. No federal program currently pays a parent directly to stay home and raise a child, and supporters describe the shift as recognizing at-home caregiving as equally valid as paid day care."
+        ]
+      },
+      {
+        "heading": "How the plan would work",
+        "paragraphs": [
+          "The administration can make the change through regulation rather than new legislation, since the fund's authorizing law leaves room for the health department to redefine who counts as an eligible caregiver. Officials say the new category would apply within existing income limits and would not require Congress to approve additional money for the program.",
+          "A conservative policy architect who helped shape the proposal told reporters the change would put stay-at-home caregiving on equal footing with paid providers and said it should hold up under legal review, including for married same-sex couples given existing court precedent. The plan would not extend to unmarried couples or to single parents who aren't working, a limit that has already drawn criticism from advocacy groups."
+        ]
+      },
+      {
+        "heading": "Who stands to gain, and who could lose out",
+        "paragraphs": [
+          "The fund currently serves about eight hundred seventy thousand families, roughly eighty percent of them headed by a single working parent, most often a mother. Because the proposal would not add new money to the program, critics warn that extending eligibility to a new category of recipients would necessarily divert resources away from families who rely on the subsidy today.",
+          "Child care providers, who depend on subsidy payments for a substantial share of their revenue, have warned the shift could force some to raise rates or close altogether, worsening a shortage that already leaves many working families on waiting lists. Roughly two hundred twenty-five thousand providers currently receive funding tied to the program nationwide."
+        ]
+      },
+      {
+        "heading": "A fight over the future of the family",
+        "paragraphs": [
+          "Democratic lawmakers have condemned the proposal in unusually sharp terms, with the top Democrat on the House Appropriations Committee accusing the administration of raiding money meant for working families to fund a benefit reserved for married couples. Women's advocacy groups have gone further, framing the plan as an attempt to push mothers out of the workforce under the guise of family support.",
+          "The rule is not yet final. It requires White House approval and a public comment period before it could take effect, with officials suggesting implementation could begin as soon as next year. In the meantime, the proposal has become a flashpoint in a broader debate over the administration's efforts to use federal policy to promote a traditional, single-earner model of family life."
+        ]
+      }
+    ]
   },
   {
     "id": 4,
-    "slug": "artists-turn-city-walls-into-open-air-gallery",
-    "category": "life",
-    "categoryLabel": "Life & Entertainment",
-    "title": "Artists turn city walls into an open-air gallery",
-    "dek": "A new trail connects ambitious murals with the stories behind them.",
-    "image": "https://images.unsplash.com/photo-1561214115-f2f134cc4912?auto=format&fit=crop&w=1200&q=85",
-    "authorId": "niamh-kelly",
-    "published": "2026-08-17T21:20:00.000Z",
+    "slug": "hhs-cuts-maternal-health-grants-fertility-focus",
+    "category": "us-news",
+    "categoryLabel": "U.S. News",
+    "title": "HHS Cuts Maternal Health Grants for Fertility Focus",
+    "dek": "The Office of Minority Health canceled 16 grants for infant and maternal programs, redirecting funds toward infertility and fitness work.",
+    "image": "../images/hhs-cuts-maternal-health-grants-fertility-focus.webp",
+    "authorId": "aoife-murphy",
+    "published": "2026-09-08T12:00:00.000Z",
     "readTime": "5 min read",
-    "featured": true,
+    "featured": false,
     "video": false,
-    "takeaways": ["The free trail features 18 new works.", "Local schools helped develop several designs."],
-    "content": [{"heading":"Art in the everyday","paragraphs":["Blank gables and overlooked lanes have become a city-scale exhibition in a project led by artists and residents."]},{"heading":"Stories on the walls","paragraphs":["Each work responds to a local memory, from shipyard shifts to dance halls and corner shops."]}]
+    "takeaways": [
+      "HHS's Office of Minority Health canceled 16 grants worth $38 million tied to maternal and infant health programs.",
+      "Officials say future funding will target infertility causes such as low sperm count and erectile dysfunction, plus exercise programs.",
+      "Grantees say they were blindsided by the terminations, which arrived without warning midway through four-year awards."
+    ],
+    "content": [
+      {
+        "heading": "A pivot inside a little-known health office",
+        "paragraphs": [
+          "The Department of Health and Human Services has abruptly canceled more than half of the active grants managed by its Office of Minority Health, telling the affected organizations their work no longer matches the administration's new funding priorities. The office, which the administration had already tried to shut down entirely last year, informed sixteen county, state and nonprofit grantees in late August that their funding was being terminated effective immediately.",
+          "The canceled programs collectively totaled roughly thirty-eight million dollars over four years, and the affected organizations had already received two years of funding before the notices arrived. They covered a range of public health work, including reducing infant and maternal mortality, postpartum home visits for new mothers, cancer screenings, suicide prevention among first responders, and efforts to curb obesity among Native American youth."
+        ]
+      },
+      {
+        "heading": "What got cut, and what's replacing it",
+        "paragraphs": [
+          "In letters sent to grantees, department officials said future funding would instead focus on what they called the root causes of infertility, including hormonal imbalances, endometriosis, uterine fibroids, low sperm count, low testosterone and erectile dysfunction, alongside programs promoting regular exercise. The letters used similar language across the batch of terminations, according to organizations that received them.",
+          "The shift effectively redirects a health office historically focused on reducing disparities faced by minority communities toward a narrower set of reproductive and fitness-related priorities. A separate review found that at least thirteen additional grants funded the previous year appear to have gone unfunded this year, suggesting the scale of the pullback may be larger than the sixteen formal terminations indicate."
+        ]
+      },
+      {
+        "heading": "Grantees say they were blindsided",
+        "paragraphs": [
+          "Several organizations said they had braced for cuts after the administration's budget proposal called for slashing the office's funding by forty percent, but believed their grants were safe once that reduction failed to materialize. The termination notices, which arrived without warning in late August, upended program plans built around the expectation of a full four years of support.",
+          "One recipient wrote to a senior health official calling it shocking that the office would prioritize erectile dysfunction treatment over the health of infants and new mothers, a sentiment echoed by other grantees who described the pivot as difficult to reconcile with the office's original mission of addressing health disparities in underserved communities."
+        ]
+      },
+      {
+        "heading": "Part of a larger retrenchment",
+        "paragraphs": [
+          "The cuts follow a broader pattern in the administration's health budget priorities. Its proposal for the coming fiscal year would eliminate the National Institute on Minority Health and Health Disparities entirely, end funding for the department's Minority HIV/AIDS office, and cut the Office of Minority Health's remaining budget by forty percent, according to budget documents reviewed by health policy reporters.",
+          "For now, the sixteen terminated grants leave local health departments and nonprofits searching for alternative funding to continue programs serving new mothers, infants and at-risk youth. Advocates say the abrupt nature of the cuts, coming mid-cycle rather than at a natural renewal point, has made it especially difficult for organizations to plan a transition or find replacement support before existing services lapse."
+        ]
+      }
+    ]
   },
   {
     "id": 5,
-    "slug": "why-good-public-spaces-matter-more-than-ever",
-    "category": "opinion",
-    "categoryLabel": "Opinion",
-    "title": "Why good public spaces matter more than ever",
-    "dek": "The places between our buildings shape health, trust and belonging.",
-    "image": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df?auto=format&fit=crop&w=1200&q=85",
-    "authorId": "maeve-oconnell",
-    "published": "2026-08-17T18:05:00.000Z",
-    "readTime": "7 min read",
-    "featured": false,
-    "video": false,
-    "takeaways": ["Welcoming public space is core infrastructure.", "Maintenance matters as much as ambitious design."],
-    "content": [{"heading":"The shared room","paragraphs":["A park bench, library step or sheltered square can be the place where a city becomes a community.","These spaces ask little of us while giving room to pause, meet and belong."]},{"heading":"Designing for dignity","paragraphs":["The best public spaces are legible, safe and generous to people of different ages and abilities."]}]
-  },
-  {
-    "id": 6,
-    "slug": "harbour-project-clears-major-planning-milestone",
-    "category": "news",
-    "categoryLabel": "News",
-    "title": "Harbour project clears major planning milestone",
-    "dek": "The waterfront proposal includes homes, workspaces and a new public promenade.",
-    "image": "https://images.unsplash.com/photo-1534237710431-e2fc698436d0?auto=format&fit=crop&w=1200&q=85",
+    "slug": "armed-man-charges-ohio-governor-candidate-acton",
+    "category": "us-news",
+    "categoryLabel": "U.S. News",
+    "title": "Armed Man Charges at Ohio Governor Candidate Acton",
+    "dek": "An armed individual pushed through a crowd toward Democratic nominee Amy Acton at a county fair, injuring bystanders before being stopped.",
+    "image": "../images/armed-man-charges-ohio-governor-candidate-acton.webp",
     "authorId": "aoife-murphy",
-    "published": "2026-08-17T15:50:00.000Z",
-    "readTime": "4 min read",
-    "featured": false,
-    "video": false,
-    "takeaways": ["The plan adds a continuous waterfront path.", "Construction could begin next spring."],
-    "content": [{"heading":"A connected waterfront","paragraphs":["Plans for a mixed-use harbour district have passed a major planning stage after months of consultation."]},{"heading":"Next steps","paragraphs":["A final design review will take place before enabling works can begin."]}]
-  },
-  {
-    "id": 7,
-    "slug": "county-final-delivers-a-finish-to-remember",
-    "category": "sport",
-    "categoryLabel": "Sport",
-    "title": "County final delivers a finish to remember",
-    "dek": "A late point settled a breathless contest in front of a packed crowd.",
-    "image": "https://images.unsplash.com/photo-1579952363873-27f3bade9f55?auto=format&fit=crop&w=1200&q=85",
-    "authorId": "conor-bradley",
-    "published": "2026-08-17T14:30:00.000Z",
-    "readTime": "3 min read",
-    "featured": false,
-    "video": true,
-    "takeaways": ["The winning score came in added time.", "Both managers praised the atmosphere."],
-    "content": [{"heading":"A dramatic finale","paragraphs":["With the teams level and the clock deep into added time, one final attack decided a compelling county final."]},{"heading":"What they said","paragraphs":["Both managers pointed to the discipline and belief shown by their players."]}]
-  },
-  {
-    "id": 8,
-    "slug": "small-venue-big-sound-summer-music-guide",
-    "category": "life",
-    "categoryLabel": "Life & Entertainment",
-    "title": "Small venue, big sound: our summer music guide",
-    "dek": "Six intimate shows that deserve a place in your diary.",
-    "image": "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?auto=format&fit=crop&w=1200&q=85",
-    "authorId": "niamh-kelly",
-    "published": "2026-08-17T12:15:00.000Z",
-    "readTime": "6 min read",
-    "featured": true,
-    "video": true,
-    "takeaways": ["Independent venues dominate this year’s programme.", "Several afternoon shows are family-friendly."],
-    "content": [{"heading":"Close to the stage","paragraphs":["This summer's most exciting music is happening in rooms small enough to feel every beat."]},{"heading":"Six to see","paragraphs":["From folk harmonies to restless electronic pop, the programme rewards curious listeners."]}]
-  },
-  {
-    "id": 9,
-    "slug": "food-makers-build-a-market-of-their-own",
-    "category": "business",
-    "categoryLabel": "Business",
-    "title": "Food makers build a market of their own",
-    "dek": "A shared production hub is helping small brands reach more shelves.",
-    "image": "https://images.unsplash.com/photo-1488459716781-31db52582fe9?auto=format&fit=crop&w=1200&q=85",
-    "authorId": "sean-doran",
-    "published": "2026-08-17T10:40:00.000Z",
+    "published": "2026-09-08T13:00:00.000Z",
     "readTime": "5 min read",
     "featured": false,
     "video": false,
-    "takeaways": ["Shared equipment reduces start-up costs.", "The group plans a permanent market hall."],
-    "content": [{"heading":"Sharing the load","paragraphs":["A group of independent producers has opened a shared kitchen, packing space and distribution hub."]},{"heading":"Growing together","paragraphs":["Members say collaboration has helped them win larger orders without losing their identity."]}]
+    "takeaways": [
+      "An armed man forced his way through a crowd toward Ohio gubernatorial candidate Amy Acton at the Canfield Fair, injuring several people.",
+      "Acton was unharmed; the suspect was arrested and charged with disorderly conduct and two counts of assault.",
+      "Leaders from both parties, including Acton's Republican rival, condemned the attack as unacceptable political violence."
+    ],
+    "content": [
+      {
+        "heading": "An armed man rushes toward a candidate",
+        "paragraphs": [
+          "Ohio's Democratic nominee for governor, Amy Acton, was confronted by an armed individual who pushed through a crowd toward her during a campaign stop at the Canfield Fair over the weekend, injuring several bystanders before law enforcement intervened. Acton, the state's former public health director, was not physically harmed in the incident, which occurred as she addressed supporters at a tent set up by the county's Democratic Party.",
+          "The Ohio State Highway Patrol identified the man as a thirty-eight-year-old local resident who forced his way through the audience, knocking several people to the ground, before troopers assigned to Acton's security detail stopped him. Authorities said he was found carrying a taser, two pistols and a pair of brass knuckles, though officials noted none of the weapons were drawn or brandished during the confrontation itself."
+        ]
+      },
+      {
+        "heading": "How the confrontation unfolded",
+        "paragraphs": [
+          "According to a county sheriff's office spokesperson, the man approached the event holding up his phone as though recording Acton while she spoke, then began pushing through attendees toward the stage. Acton's security detail, made up of state troopers, moved to confront him, and two bystanders were knocked to the ground in the scramble that followed before he was taken into custody.",
+          "He was booked into the county jail and charged with disorderly conduct along with two counts of assault. Officials said the investigation into what prompted the confrontation was continuing, and it remained unclear whether he had retained legal representation. Acton stayed at the fairground afterward to check on those who had been injured, according to her campaign."
+        ]
+      },
+      {
+        "heading": "Reaction from both sides of the aisle",
+        "paragraphs": [
+          "Acton's campaign called the episode a reminder of the toxic climate surrounding this year's race, with a spokesperson saying the candidate will always stand up to the chaos and vitriol that pits people against one another. The reaction was echoed across the political aisle: a spokesperson for her Republican opponent, entrepreneur Vivek Ramaswamy, called the incident completely unacceptable and said candidates should be able to meet voters without fear of violence.",
+          "Ohio's outgoing Republican governor, who cannot seek reelection because of term limits, condemned the confrontation as well, saying violence or the threat of it has no place at political or public events. A Republican U.S. senator from the state also denounced the incident, adding to a rare moment of bipartisan agreement in an otherwise combative statewide race."
+        ]
+      },
+      {
+        "heading": "A campaign already marked by tension",
+        "paragraphs": [
+          "The confrontation lands in the middle of one of the most closely watched governor's races in the country, pitting Acton against Ramaswamy, who has leaned on national name recognition, deep ties to the tech industry and a record-setting fundraising haul to build an advertising campaign ahead of November. Both campaigns have increasingly framed the contest in national terms, with Ramaswamy stressing his alliance with the president and Acton running on her record as the state's former top health official.",
+          "Local Democratic officials in the county said they were reviewing security procedures ahead of Acton's remaining public events, while emphasizing that the campaign would not curtail its schedule of appearances. As of this week, no additional details about a possible motive had been released, and the investigation by county and state authorities remained active."
+        ]
+      }
+    ]
   },
   {
-    "id": 10,
-    "slug": "five-walks-for-a-clearer-weekend",
-    "category": "life",
-    "categoryLabel": "Life & Entertainment",
-    "title": "Five walks for a clearer weekend",
-    "dek": "From forest paths to sea air, these routes make space to reset.",
-    "image": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?auto=format&fit=crop&w=1200&q=85",
-    "authorId": "niamh-kelly",
-    "published": "2026-08-16T16:20:00.000Z",
-    "readTime": "4 min read",
-    "featured": false,
-    "video": true,
-    "takeaways": ["All five routes are suitable for casual walkers.", "Public transport options are included."],
-    "content": [{"heading":"A gentler pace","paragraphs":["You do not need a summit to feel the benefit of a good walk. These routes put scenery and simplicity first."]},{"heading":"Plan your route","paragraphs":["Check the forecast, bring water and leave enough daylight for an unhurried return."]}]
-  },
-  {
-    "id": 11,
-    "slug": "schools-launch-shared-reading-project",
-    "category": "news",
-    "categoryLabel": "News",
-    "title": "Schools launch shared reading project",
-    "dek": "Pupils across twelve schools will read and discuss the same novel.",
-    "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=1200&q=85",
-    "authorId": "aoife-murphy",
-    "published": "2026-08-16T13:05:00.000Z",
-    "readTime": "3 min read",
-    "featured": false,
-    "video": false,
-    "takeaways": ["Twelve schools are taking part.", "The project ends with a student-led festival."],
-    "content": [{"heading":"One book, many voices","paragraphs":["Thousands of pupils will share one story this term as part of a new cross-school reading programme."]},{"heading":"Beyond the classroom","paragraphs":["Authors, librarians and illustrators will join workshops throughout the project."]}]
-  },
-  {
-    "id": 12,
-    "slug": "the-case-for-slower-local-news",
-    "category": "opinion",
-    "categoryLabel": "Opinion",
-    "title": "The case for slower local news",
-    "dek": "Being first matters less than being useful, trusted and close to readers.",
-    "image": "https://images.unsplash.com/photo-1495020689067-958852a7765e?auto=format&fit=crop&w=1200&q=85",
-    "authorId": "maeve-oconnell",
-    "published": "2026-08-16T09:00:00.000Z",
+    "id": 6,
+    "slug": "canada-tariffs-trade-war-escalates",
+    "category": "world",
+    "categoryLabel": "World",
+    "title": "Canada Hits Back With Tariffs as Trade War Escalates",
+    "dek": "Canada's dollar-for-dollar tariffs on US goods took effect this week, deepening a rift with Washington that shows no sign of cooling.",
+    "image": "../images/canada-tariffs-trade-war-escalates.webp",
+    "authorId": "conor-bradley",
+    "published": "2026-09-09T08:00:00.000Z",
     "readTime": "6 min read",
     "featured": false,
     "video": false,
-    "takeaways": ["Context gives local reporting its lasting value.", "Trust grows through consistency and correction."],
-    "content": [{"heading":"Beyond the alert","paragraphs":["News alerts are useful, but they are rarely the whole story. Local journalism earns its place by staying after the first rush."]},{"heading":"A useful measure","paragraphs":["The test is not only whether a story travelled, but whether it helped someone understand what happens next."]}]
+    "takeaways": [
+      "Canada's new tariffs, ranging from 15% to 50%, took effect Tuesday on roughly $28 billion worth of American goods spanning steel, dairy, appliances and electronics.",
+      "The move answers a 50% US levy on Canadian goods that began in late August, after trade talks between Ottawa and Washington collapsed.",
+      "Washington responded within hours by banning imports of several Canadian dairy products, motorcycles and alcoholic beverages starting later this month."
+    ],
+    "content": [
+      {
+        "heading": "Ottawa matches Washington dollar for dollar",
+        "paragraphs": [
+          "Canada's long-simmering trade dispute with the United States entered a sharper phase this week as a new round of retaliatory tariffs took hold. Just after midnight on Tuesday, duties ranging from fifteen to fifty percent came into force on hundreds of American products entering Canada, covering everything from cheese and household appliances to cosmetics, farm equipment, motorcycles and video game consoles. Officials in Ottawa framed the measures as a direct, dollar-for-dollar answer to Washington's own tariffs, describing the goal as matching the scale of the American levies rather than exceeding them.",
+          "The Canadian government said the affected imports amount to close to twenty-eight billion dollars, a figure officials tied closely to the value of Canadian goods hit by the US side earlier in the summer. Notably, Ottawa also doubled its existing tariffs on American steel and aluminum to fifty percent, mirroring the rate the United States had already placed on Canadian metal exports. The counter-tariffs apply to goods genuinely originating in the US, so shipments already in transit when the measures took effect are exempt."
+        ]
+      },
+      {
+        "heading": "A negotiation that broke down in August",
+        "paragraphs": [
+          "The latest escalation traces back to the collapse of bilateral trade talks in late August, when Canada's prime minister suspended negotiations after accusing American counterparts of introducing terms he called unreasonable. Days later, Washington pressed ahead with fifty percent tariffs on close to twenty-eight billion dollars of Canadian exports, issued through proclamations that cited what US officials described as unfair treatment of American dairy, alcohol and automotive sectors. Notably, those measures were written without any carve-out for goods that would otherwise qualify for duty-free treatment under the two countries' continental trade pact, meaning Canadian exporters faced the new charges regardless of where their supply chains originated.",
+          "The dispute has also taken on a more personal edge in recent weeks, with the American president posting an illustration mocking Canada's leader and reviving talk of Canada becoming an American state. Ottawa's response has focused less on rhetoric than on economic self-reliance, with the prime minister telling citizens the country has the tools to pivot toward other trading partners, even if doing so carries short-term costs."
+        ]
+      },
+      {
+        "heading": "Washington answers with dairy and alcohol bans",
+        "paragraphs": [
+          "The Trump administration did not wait long to respond. Hours after Canada's tariffs kicked in, the White House issued a fresh set of presidential actions blocking the import of a range of Canadian dairy products, motorcycles and alcoholic beverages, with the restrictions scheduled to begin later this month. The back-and-forth marks the latest chapter in a trade relationship that had, until recently, been defined by decades of close cross-border cooperation under successive free trade agreements.",
+          "Analysts tracking the dispute say the reach of the measures extends well beyond the industries named in the original proclamations, touching hundreds of manufactured and consumer goods on both sides of the border. Canada is the largest foreign buyer of American-made vehicles, meaning its countermeasures could weigh on US automakers even as domestic manufacturers absorb higher costs for imported steel and aluminum."
+        ]
+      },
+      {
+        "heading": "What it could mean for consumers",
+        "paragraphs": [
+          "For ordinary shoppers, economists warn the standoff is likely to filter through to store shelves on both sides of the border in the coming months. Canadian officials have acknowledged that costs, prices and unemployment could all tick upward as businesses adjust supply chains, while American consumers may see price increases on several hundred imported Canadian goods, including seafood, paper products and building materials.",
+          "Ottawa has signaled it will roll out support measures for industries most exposed to the new American duties, with details expected in the coming weeks. For now, both governments appear to be settling in for a prolonged standoff rather than a quick return to the negotiating table, with officials in Ottawa framing the tariffs as part of a broader push to reduce Canada's economic reliance on a single trading partner."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "slug": "kenya-crackdown-foreign-small-businesses",
+    "category": "world",
+    "categoryLabel": "World",
+    "title": "Kenya Orders Crackdown on Foreign-Run Small Businesses",
+    "dek": "President William Ruto has ordered authorities to shut small-scale businesses run by foreigners, sparking fear among migrant traders and accusations of xenophobia.",
+    "image": "../images/kenya-crackdown-foreign-small-businesses.webp",
+    "authorId": "conor-bradley",
+    "published": "2026-09-09T09:00:00.000Z",
+    "readTime": "5 min read",
+    "featured": false,
+    "video": false,
+    "takeaways": [
+      "Kenyan President William Ruto ordered authorities to shut down small-scale businesses run by foreign nationals, saying the work should go to Kenyans instead.",
+      "Migrant traders, including many from neighboring East African countries, were given roughly a week to comply, prompting some to queue at embassies for travel documents.",
+      "Critics say the directive risks stoking xenophobia and disrupting sectors, like the country's minibus taxi network, that rely heavily on foreign-owned vehicles and capital."
+    ],
+    "content": [
+      {
+        "heading": "A presidential order with a tight deadline",
+        "paragraphs": [
+          "Kenya's government has moved to shut down small businesses operated by foreign nationals, a directive from President William Ruto that has rattled migrant communities across the country. The order, issued last week, instructed authorities to close small-scale trading operations run by non-Kenyans, with the president arguing that this tier of the economy should be reserved for citizens. Business owners affected by the directive were given only until this week to wind down or hand over their operations, a timeline that traders and advocacy groups say left little room to prepare.",
+          "The policy does not target large foreign investment or multinational employers operating in Kenya. Instead, it is aimed squarely at small, informal enterprises, the kind of shops, kiosks and transport operations that make up much of daily commerce in neighborhoods like Nairobi's Kibera, one of the country's largest informal settlements."
+        ]
+      },
+      {
+        "heading": "Fear spreads through migrant communities",
+        "paragraphs": [
+          "In the days since the order was announced, foreign nationals running small businesses have described a climate of growing anxiety. Some have reported to community organizers that they are uncertain whether their livelihoods will still exist by the end of the week, while others have begun making contingency plans to leave the country. Outside Nairobi, Burundian nationals have been seen lining up outside their embassy seeking travel documents, an early sign of the disruption the order is causing among some of the roughly one hundred thousand refugees and asylum seekers Kenya hosts from neighboring states.",
+          "The impact is already visible in sectors that rely heavily on cross-border capital and labor. At matatu terminals, the hubs for Kenya's ubiquitous privately run minibus taxis, operators say a significant share of the vehicles on the road are owned or financed by foreign nationals, meaning the crackdown could ripple into public transport availability in the capital."
+        ]
+      },
+      {
+        "heading": "Accusations of xenophobia",
+        "paragraphs": [
+          "Rights advocates and some regional commentators have accused the government of stoking xenophobic sentiment, drawing comparisons to similar crackdowns elsewhere on the continent that have previously spiraled into violence against foreign traders. Kenyan officials have pushed back on that characterization, framing the order instead as an economic protection measure meant to safeguard opportunities for citizens amid persistently high youth unemployment.",
+          "The government has not detailed how the policy will be enforced beyond the initial compliance deadline, nor has it clarified what will happen to inventory, leases or vehicles owned by affected traders. That ambiguity has added to the uncertainty among business owners, many of whom say they have operated in Kenya for years and employ Kenyan staff alongside their own families."
+        ]
+      },
+      {
+        "heading": "A test for East African economic ties",
+        "paragraphs": [
+          "The crackdown lands awkwardly alongside Kenya's stated commitment to regional integration through the East African Community, a bloc that promotes freer movement of labor and capital among member states. Analysts say a sustained clampdown on small foreign-run businesses could complicate that broader integration agenda and strain relations with neighboring governments whose citizens are most affected.",
+          "For now, the directive remains in its early enforcement window, and it is unclear how strictly local authorities will apply it once the compliance deadline passes. Community leaders in Nairobi say they are watching closely for signs of forced closures or confrontations at trading sites in the coming days, while migrant business owners weigh whether to fight the order, relocate, or attempt to formalize their operations under Kenyan ownership structures."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "slug": "uk-france-canada-sanction-israeli-settlements",
+    "category": "world",
+    "categoryLabel": "World",
+    "title": "UK, France, Canada Sanction Israeli Settlements",
+    "dek": "Britain, France and Canada announced a coordinated ban on trade in goods from Israeli West Bank settlements, deepening Israel's diplomatic isolation.",
+    "image": "../images/uk-france-canada-sanction-israeli-settlements.webp",
+    "authorId": "conor-bradley",
+    "published": "2026-09-09T10:00:00.000Z",
+    "readTime": "6 min read",
+    "featured": false,
+    "video": false,
+    "takeaways": [
+      "The UK, France and Canada announced a coordinated ban on trade in goods from Israeli settlements in the occupied West Bank, with Britain adding fresh sanctions and export restrictions.",
+      "Eleven other countries joined a broader statement warning that settlement expansion, including plans for the E1 project, threatens the viability of a two-state solution.",
+      "Senior Israeli ministers reacted furiously, with one calling for Britain's ambassador to be expelled and another pushing to shut the British consulate in East Jerusalem."
+    ],
+    "content": [
+      {
+        "heading": "A coordinated trade ban takes shape",
+        "paragraphs": [
+          "Britain, France and Canada announced this week that they will ban the trade of goods produced in Israeli settlements in the occupied West Bank, a coordinated step that marks one of the most significant Western moves against Israeli settlement policy in years. The announcement came during a packed session of the British Parliament, where the country's foreign secretary told lawmakers that London could no longer simply criticize the situation from the sidelines and needed to act. Britain's measures go further than its partners, pairing the trade ban with targeted sanctions on specific settlements and a halt on arms export licenses judged to materially support the occupation.",
+          "The British government also used unusually direct language, stating that its position is that the occupation of the West Bank is unlawful and that the situation there amounts to ethnic cleansing of Palestinians in some areas. That framing represents a notable hardening of tone from a government that took office only weeks earlier, and it drew immediate condemnation from Israeli officials."
+        ]
+      },
+      {
+        "heading": "A wider coalition of governments",
+        "paragraphs": [
+          "Beyond the three countries announcing outright bans, a broader group of twelve nations, including Denmark, Finland, Iceland, Ireland, Norway, Poland, Portugal, Spain and Sweden, signed a joint statement confirming they are introducing or actively considering national or European restrictions on settlement goods. The statement cited what it called unprecedented levels of settler violence and settlement expansion, singling out Israel's decision to advance tenders for the long-contested E1 settlement project as a particular flashpoint.",
+          "The joint statement framed the moves as an effort to preserve the possibility of a two-state solution, which the signatories said is now under direct and urgent threat. It comes roughly a year after Canada, the UK and France formally recognized a Palestinian state, a decision that at the time drew sharp condemnation from Israel's government."
+        ]
+      },
+      {
+        "heading": "Israel's furious response",
+        "paragraphs": [
+          "The reaction from senior Israeli officials was swift and pointed. One cabinet minister called for the British ambassador in Tel Aviv to be expelled, while another urged the prime minister to close the British consulate in East Jerusalem, which is accredited to the Palestinian Authority. Israel has long maintained that the West Bank is disputed rather than occupied territory and rejects characterizations of ethnic cleansing, arguing that settlement activity reflects historical and security claims to the land.",
+          "The practical economic impact of the bans is likely to be limited in the near term, given the relatively small share of settlement-specific goods within overall trade volumes and the difficulty of distinguishing settlement-made products from those produced elsewhere in Israel. Even so, officials in London acknowledged the measures carry significant symbolic weight."
+        ]
+      },
+      {
+        "heading": "Domestic political fallout",
+        "paragraphs": [
+          "The announcement has also become a domestic flashpoint in Britain, where opposition parties have criticized the government from opposite directions, with some accusing it of undermining a key ally and others saying the measures still fall short of what is needed. Polling cited by British officials suggests the policy enjoys broad public support, even as it draws fierce criticism in Parliament.",
+          "With the settlement ban now formally announced, attention is shifting to how quickly the participating governments translate the pledge into enforceable regulation, and whether additional European countries will move from stating an intention to introducing binding restrictions of their own in the weeks ahead."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "slug": "russia-north-korea-open-first-road-bridge",
+    "category": "world",
+    "categoryLabel": "World",
+    "title": "Russia and North Korea Open First Road Bridge",
+    "dek": "The two countries opened their first direct road link across the Tumen River, a symbolic milestone in their deepening wartime partnership.",
+    "image": "../images/russia-north-korea-open-first-road-bridge.webp",
+    "authorId": "conor-bradley",
+    "published": "2026-09-09T07:00:00.000Z",
+    "readTime": "5 min read",
+    "featured": false,
+    "video": false,
+    "takeaways": [
+      "Russia and North Korea opened their first road bridge, a one-kilometer, two-lane crossing over the Tumen River linking Russia's Khasan area with North Korea's Rason region.",
+      "The bridge is named for Yakov Novichenko, a Soviet officer credited with saving North Korean founder Kim Il Sung from a 1946 assassination attempt.",
+      "The crossing, which can handle up to 300 vehicles a day, follows a 2024 summit agreement and reflects accelerating cooperation since Russia's invasion of Ukraine."
+    ],
+    "content": [
+      {
+        "heading": "A new physical link across a narrow border",
+        "paragraphs": [
+          "Russia and North Korea opened their first-ever road bridge this week, forging a new physical connection across the short stretch of border the two countries share along the Tumen River. The crossing links Russia's Khasan area with North Korea's Tumangang region near the port city of Rason, and organizers marked the occasion with a procession of vehicles, led by a restored car that once belonged to the officer the bridge is named after. Before now, the two countries were connected only by air routes and a rail bridge dating back to the 1950s, making this the first crossing designed specifically for road traffic.",
+          "The bridge stretches roughly one kilometer and carries two lanes, with Russian officials saying it will be able to handle up to three hundred vehicles a day once the surrounding border infrastructure is fully operational. Satellite imagery reviewed by observers suggests some ancillary buildings at the new Khasan checkpoint remain under construction even as the main span has opened to traffic."
+        ]
+      },
+      {
+        "heading": "Named for a Cold War rescue",
+        "paragraphs": [
+          "The bridge carries the name of Yakov Novichenko, a Soviet Red Army officer credited by Pyongyang with saving the life of North Korea's founding leader, Kim Il Sung, in 1946. According to the account North Korea has long promoted, Novichenko shielded Kim from a grenade thrown during a public rally by intercepting the blast himself, an act of protection that has since become part of North Korean state history. Choosing his name for the crossing underscores how deliberately both governments have leaned into shared historical symbolism to frame their present-day partnership.",
+          "The opening ceremony was held simultaneously on both sides of the border, with Russia's prime minister and North Korea's premier presiding over the event via video link rather than in person. Officials on both sides described the project, which cost an estimated one hundred million dollars and took roughly a year and a half to build, as a milestone in what they called an unprecedentedly high level of strategic partnership."
+        ]
+      },
+      {
+        "heading": "Part of a broader wartime alignment",
+        "paragraphs": [
+          "The bridge's completion follows a 2024 summit between the Russian and North Korean leaders that produced the initial agreement to build the crossing, with construction beginning in the spring of 2025. Its opening comes against the backdrop of a rapidly deepening relationship between Moscow and Pyongyang that has accelerated sharply since Russia's full-scale invasion of Ukraine, a conflict that has left Russia increasingly isolated from much of the Western world.",
+          "North Korea has provided direct military support to that campaign, including sending thousands of troops to Russia's Kursk region in 2024 to help repel a Ukrainian incursion. Analysts tracking the relationship say the new road bridge is likely to further ease the movement of goods, workers and military-related material between the two countries, adding a tangible transport link to a partnership that had, until now, relied mainly on rail and diplomatic channels."
+        ]
+      },
+      {
+        "heading": "What comes next",
+        "paragraphs": [
+          "Officials have framed the bridge primarily as an economic project meant to boost trade, tourism and technological cooperation between the border regions it connects. Even so, the timing and symbolism of the opening are likely to draw continued scrutiny from governments monitoring the military dimensions of the Russia-North Korea relationship, particularly given North Korea's documented troop deployments in support of Russia's war effort.",
+          "For residents of the border towns on either side, the more immediate change will be practical: for the first time, cars and trucks can cross directly between the two countries by road, rather than relying solely on the aging rail link or lengthy detours through third countries."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "slug": "australia-social-media-algorithm-opt-out-law",
+    "category": "world",
+    "categoryLabel": "World",
+    "title": "Australia Moves to Let Users Opt Out of Algorithms",
+    "dek": "Australia unveiled draft laws forcing platforms to let users switch off algorithmic feeds, the latest in a string of moves to rein in Big Tech.",
+    "image": "../images/australia-social-media-algorithm-opt-out-law.webp",
+    "authorId": "conor-bradley",
+    "published": "2026-09-09T11:00:00.000Z",
+    "readTime": "5 min read",
+    "featured": false,
+    "video": false,
+    "takeaways": [
+      "Australia released draft 'Digital Duty of Care' legislation requiring platforms to notify users and let them choose between an algorithmic feed and a chronological, follow-only one.",
+      "Non-compliance could bring penalties of up to 109.2 million Australian dollars, roughly 79 million US dollars, enforced by the country's eSafety Commissioner.",
+      "The proposal follows Australia's world-first ban on social media accounts for under-16s and bundles the feed-choice rule with broader protections against harmful content for minors."
+    ],
+    "content": [
+      {
+        "heading": "A notification, not a new product",
+        "paragraphs": [
+          "Australia's government unveiled draft legislation this week that would require social media platforms to let users switch off algorithm-driven feeds in favor of a simple, chronological view of accounts they already follow. Branded 'My Feed, My Way' and folded into a broader Digital Duty of Care package, the proposal centers on a mechanism that sounds modest on paper: platforms would have to send a notification to every user, new and existing, prompting them to actively choose their default feed rather than being defaulted into algorithmic recommendations without being asked.",
+          "Under the draft rules, users over the age of sixteen could opt in to a feed shaped by personalized algorithmic recommendations, or opt out and see only posts from the accounts and creators they have chosen to follow. Communications Minister Anika Wells and Prime Minister Anthony Albanese framed the change as giving people genuine, lasting control over their own feeds rather than leaving the option buried in a settings menu, where most platforms currently place similar controls."
+        ]
+      },
+      {
+        "heading": "Real teeth, still a draft",
+        "paragraphs": [
+          "The legislation is not yet law. It was released Tuesday for what the government describes as targeted consultation, with officials indicating they intend to introduce a formal bill to Parliament later this year. Still, the proposed penalties signal the seriousness of the effort: platforms that fail to comply could face fines of up to 109.2 million Australian dollars, or roughly 79 million US dollars, with Australia's eSafety Commissioner given responsibility for enforcement.",
+          "Officials have been careful to note that the obligation is about the prompt and the default, not about building new technology from scratch. Several major platforms already allow users to switch to a chronological or 'following' feed, though the option is typically tucked away and rarely presented as an equal alternative to the algorithm-driven default."
+        ]
+      },
+      {
+        "heading": "Part of a bigger child-safety push",
+        "paragraphs": [
+          "The feed-choice proposal is being bundled with wider protections aimed at shielding minors from content that promotes eating disorders, hostile attitudes toward women, pornography, crime, dangerous stunts and material linked to serious mental health distress. That pairing reflects the political context in which the bill arrives: it follows Australia's introduction late last year of a world-first law banning children under sixteen from holding accounts on major social platforms altogether.",
+          "Taken together, the two measures position Australia, a country of roughly twenty-seven million people, as one of the most aggressive Western regulators of social media design choices, well ahead of larger jurisdictions like the European Union, whose Digital Services Act has required large platforms to offer at least one non-profiling feed option since 2024 but has drawn criticism over lukewarm real-world uptake."
+        ]
+      },
+      {
+        "heading": "The details still up for grabs",
+        "paragraphs": [
+          "Much of the bill's real-world impact will hinge on details not yet settled. The draft does not specify how the choice must be worded or visually presented to users, a gap that industry groups, child-safety advocates and the platforms themselves are expected to contest heavily during the consultation period. A notification that subtly frames the algorithmic option as the default, easier choice could produce a very different opt-out rate than one that presents both options neutrally.",
+          "Global observers are also watching the proposal as a potential template. If a mid-sized market like Australia can make a straightforward opt-out notification work at scale, technology analysts say other governments are more likely to copy the specific mechanism rather than simply the underlying principle of feed choice, making the coming months of consultation consequential well beyond Australia's borders."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "slug": "oil-nears-100-mideast-tensions-escalate",
+    "category": "business",
+    "categoryLabel": "Business",
+    "title": "Oil Nears $100 as Mideast Tensions Escalate",
+    "dek": "Brent crude touched a six-week high after Houthi strikes hit Saudi energy sites and the US and Iran traded blows near the Strait of Hormuz.",
+    "image": "../images/oil-nears-100-mideast-tensions-escalate.webp",
+    "authorId": "niamh-kelly",
+    "published": "2026-09-09T07:30:00.000Z",
+    "readTime": "6 min read",
+    "featured": false,
+    "video": false,
+    "takeaways": [
+      "Brent crude touched nearly $100 a barrel and WTI neared $95 after Iran-aligned Houthi militants struck Saudi energy facilities and the US and Iran exchanged military strikes.",
+      "Goldman Sachs raised its price forecasts and warned Brent could exceed $120 in 2027 if Gulf output stays well below prewar levels.",
+      "Traffic through the Strait of Hormuz, which normally carries over a fifth of global oil supply, has slowed to a trickle amid the fighting."
+    ],
+    "content": [
+      {
+        "heading": "Crude spikes on twin flashpoints",
+        "paragraphs": [
+          "Oil prices jumped this week as two separate flashpoints in the Middle East converged to rattle energy markets. Brent crude, the international benchmark, climbed toward the $100-a-barrel mark, touching a session high near $99.50, while US West Texas Intermediate pushed above $94. The moves capped a run that has pushed oil prices up more than eight percent so far this month, as traders weighed the risk of a broader disruption to Gulf supply.",
+          "The immediate trigger was a wave of strikes by Iran-aligned Houthi militants in Yemen against energy facilities in Saudi Arabia, which forced a temporary halt to operations at several sites and left more than seventy civilians injured, according to the Saudi foreign ministry. The attacks hit cities including Abha, Khamis Mushait, Jazan and Najran, with the strikes marking the second hit on Saudi Aramco's Jizan refining complex in the space of a month."
+        ]
+      },
+      {
+        "heading": "US and Iran trade direct strikes",
+        "paragraphs": [
+          "Compounding the market's unease, the United States and Iran have exchanged direct military strikes for the first time since July. The US military struck three Iranian oil tankers over the weekend, sinking one, in what officials described as a response to Iranian ballistic missiles fired at US Navy vessels. Washington has characterized the targeted ships as part of a shadow fleet funding Iran's Revolutionary Guard and its regional proxies, a claim Tehran has rejected, with its foreign ministry calling the strikes a war crime and an act of economic warfare.",
+          "The exchange of threats has continued in public view, with a senior Iranian official warning on social media that any strike on Iranian assets would be met in kind, after the US defense secretary said Washington would destroy and sink Iranian oil tankers if Iran fired on American vessels. Late in the week, Iranian state media reported fresh explosions near Kharg Island, a critical export terminal, adding to the sense that the conflict is widening rather than cooling."
+        ]
+      },
+      {
+        "heading": "Hormuz traffic grinds to a near-halt",
+        "paragraphs": [
+          "The practical effect of the fighting has been a dramatic slowdown in shipping through the Strait of Hormuz, the narrow waterway that under normal conditions carries more than a fifth of the world's oil supply. Data from maritime trackers show only a handful of vessels passing through the strait on some recent days, down from dozens under normal conditions, while transits through the nearby Bab el-Mandeb Strait have also thinned.",
+          "Energy analysts say the reduced traffic reflects both direct damage to infrastructure and a more cautious approach from shipping companies wary of sailing through an active conflict zone. Insurance costs for tankers transiting the region have risen sharply as a result, adding further strain to global supply chains already absorbing the effects of the fighting."
+        ]
+      },
+      {
+        "heading": "Forecasters brace for more volatility",
+        "paragraphs": [
+          "Wall Street banks have moved quickly to revise their outlooks. Goldman Sachs raised its price forecasts for both benchmarks, lifting its December 2026 estimate for Brent to $85 and warning that prices could exceed $120 a barrel in 2027 if Gulf crude output remains around four million barrels a day below prewar levels. The bank said markets are increasingly pricing in a prolonged Middle East conflict rather than a quick de-escalation.",
+          "US officials have publicly expressed confidence that prices will eventually fall once the conflict with Iran is resolved, though no timeline has been offered. In the meantime, energy traders say they expect continued volatility, with prices likely to swing on each new report of strikes or attempted de-escalation in a conflict that has already surpassed six months with no clear resolution in sight."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "slug": "volkswagen-cut-50000-jobs-2030",
+    "category": "business",
+    "categoryLabel": "Business",
+    "title": "Volkswagen to Cut 50,000 More Jobs by 2030",
+    "dek": "Europe's largest carmaker approved a sweeping restructuring plan that brings its total planned job cuts to 100,000 amid tariffs and China competition.",
+    "image": "../images/volkswagen-cut-50000-jobs-2030.webp",
+    "authorId": "niamh-kelly",
+    "published": "2026-09-09T06:45:00.000Z",
+    "readTime": "6 min read",
+    "featured": false,
+    "video": false,
+    "takeaways": [
+      "Volkswagen's supervisory board unanimously approved 'Future Plan 2030', cutting roughly 50,000 more jobs and bringing total planned reductions across the group to 100,000.",
+      "The plan targets an operating margin of 9% and annual sales of 9 million vehicles by 2030, while shrinking the model lineup by about half by 2035.",
+      "The future of four German plants, including Emden and Hanover, remains unresolved as the company assesses whether European capacity can be justified long term."
+    ],
+    "content": [
+      {
+        "heading": "The biggest overhaul in the company's history",
+        "paragraphs": [
+          "Volkswagen's supervisory board has unanimously approved what the company is calling the most strategically profound transformation program in its eighty-nine-year history. Dubbed 'Future Plan 2030,' the restructuring calls for a group-wide workforce reduction of approximately 50,000 positions, including management roles, on top of 50,000 cuts already approved earlier this year. Combined, the two rounds bring Volkswagen's total planned job losses to roughly 100,000, a striking figure for a company that currently employs about 650,000 people worldwide.",
+          "Chief executive Oliver Blume framed the plan as an act of responsibility toward the company's workforce and industrial partners rather than a retreat, saying the group needed to take charge of its own future rather than wait for conditions to force its hand. The plan comprises twelve separate initiatives spanning workforce structure, production capacity, product strategy and financial targets."
+        ]
+      },
+      {
+        "heading": "Tariffs and Chinese competition squeeze margins",
+        "paragraphs": [
+          "Volkswagen has been explicit about what is driving the overhaul: intensifying global competition, shifting demand and technological change in the automotive industry, compounded by the impact of US tariffs and the rapid rise of domestic Chinese carmakers in the world's largest auto market. The company has lost significant ground to Chinese competitors on price and electric vehicle technology in recent years, while facing higher costs from tariffs imposed on its exports to the United States.",
+          "Under the plan, Volkswagen is targeting an operating margin of nine percent and annual sales of nine million vehicles by 2030, a margin equivalent to roughly thirty-one billion euros in operating profit at that sales level. The company has earmarked one hundred thirty-five billion euros in capital spending and research between 2027 and 2031 to fund the transition, even as it slims down elsewhere."
+        ]
+      },
+      {
+        "heading": "Fewer models, flatter management",
+        "paragraphs": [
+          "Beyond the job cuts, Future Plan 2030 sets out a significant simplification of Volkswagen's product range, with the group aiming to reduce its model portfolio by around fifty percent and cut offering complexity by roughly seventy-five percent by 2035. The company is also moving to flatten its management structure, part of a broader push to speed up decision-making across its ten brands, which include Audi, Porsche and the group's software subsidiary, Cariad.",
+          "The plan leaves open the question of which specific models and, in some cases, entire brands will be discontinued, with further details expected as the executive board works through implementation alongside individual brands and employee representatives in the coming months."
+        ]
+      },
+      {
+        "heading": "German plants left in limbo",
+        "paragraphs": [
+          "One of the most consequential unresolved pieces of the plan concerns four Volkswagen plants in Germany: Emden, Zwickau, Hanover and Neckarsulm. The supervisory board said the group's European production capacity currently exceeds demand by more than five hundred thousand units, and that a competitive future allocation for those four sites cannot currently be secured on a staggered basis from 2031 to 2034. Alternative uses for the plants are being assessed in parallel, with a decision on their fate due by the end of June 2027.",
+          "Investors responded favorably to the announcement, with Volkswagen shares jumping as much as eight percent on the news, even as the stock remains down for the year. Analysts described the unanimous board approval as a meaningful breakthrough after months of skepticism that the company could reach a comprehensive agreement, even as they cautioned that the transformation does not resolve Volkswagen's challenges overnight."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 13,
+    "slug": "liv-golf-chapter-11-bankruptcy",
+    "category": "business",
+    "categoryLabel": "Business",
+    "title": "LIV Golf Files for Chapter 11 Bankruptcy",
+    "dek": "The Saudi-backed golf league filed for bankruptcy protection with over $500 million in debt, aiming to relaunch as a smaller, player-owned circuit in 2027.",
+    "image": "../images/liv-golf-chapter-11-bankruptcy.webp",
+    "authorId": "niamh-kelly",
+    "published": "2026-09-09T12:00:00.000Z",
+    "readTime": "5 min read",
+    "featured": false,
+    "video": false,
+    "takeaways": [
+      "LIV Golf filed for Chapter 11 bankruptcy protection in New Jersey with more than $500 million in debt, after Saudi Arabia's Public Investment Fund pulled its funding earlier this year.",
+      "The league has secured a restructuring agreement with BC Partners aimed at relaunching a smaller LIV Golf 2.0 in 2027, majority owned by its players.",
+      "Star golfers Jon Rahm and Bryson DeChambeau are listed among the league's largest unsecured creditors, owed $7.5 million and $5.7 million respectively."
+    ],
+    "content": [
+      {
+        "heading": "A costly experiment hits a wall",
+        "paragraphs": [
+          "LIV Golf, the Saudi-backed league that upended professional golf with enormous player paydays, filed for Chapter 11 bankruptcy protection this week in a New Jersey federal court, listing more than five hundred million dollars in debt. The filing formalizes a collapse that had been widely anticipated since April, when Saudi Arabia's Public Investment Fund confirmed it was ending its financial backing after the 2026 season, saying further long-term investment in the league no longer fit its current strategy.",
+          "The fund has poured more than five billion dollars into LIV since its 2022 launch, with some estimates placing total spending above six billion dollars once related costs are included. That scale of investment failed to translate into a sustainable business model, with the league struggling to draw meaningful television ratings even as it lured some of the sport's biggest names away from the established PGA Tour."
+        ]
+      },
+      {
+        "heading": "Rahm and DeChambeau among the creditors",
+        "paragraphs": [
+          "Court filings list a number of LIV's own star players among its largest unsecured creditors. Jon Rahm, whose defection from the PGA Tour was considered one of the league's biggest coups, is owed roughly seven and a half million dollars, while Bryson DeChambeau, another marquee signing, is listed as owed about five and seven-tenths million dollars. Several tournament vendors have also filed lawsuits over unpaid fees in recent weeks, some of which are reflected in the bankruptcy docket.",
+          "LIV's season ended prematurely three weeks before the filing, with its Indianapolis event serving as a truncated finale after the league had already postponed a stop in New Orleans and folded its planned Team Championship into the final individual tournament."
+        ]
+      },
+      {
+        "heading": "A restructuring, not a shutdown",
+        "paragraphs": [
+          "LIV has framed the bankruptcy filing as part of a deliberate restructuring rather than the end of the league. The company said it has secured a restructuring support agreement with an arm of private equity firm BC Partners, which is expected to become the primary source of capital going forward. Under the arrangement, LIV says it intends to emerge from Chapter 11 in early 2027 as a smaller operation majority owned by its players.",
+          "Chief executive Scott O'Neil described the filing as giving the league the structure and time to pursue what he called a landmark transaction and begin a new chapter built around fans and a player-first ownership model. In a letter to fans, O'Neil outlined plans for 'LIV Golf 2.0,' which would expand the playing field from fifty-seven to seventy-five golfers, introduce a cut for the first time, and create new pathways, including Monday qualifiers, for players to earn their way into the league."
+        ]
+      },
+      {
+        "heading": "What comes next for the sport",
+        "paragraphs": [
+          "The bankruptcy raises questions about the future of existing player contracts, some of which could be renegotiated or severed as part of the restructuring process. It also marks a symbolic turning point in a broader rivalry that has reshaped professional golf's economics since 2022, with the PGA Tour's leadership having consistently maintained that any reunification talks would need to reflect the two tours' now sharply different financial positions.",
+          "O'Neil has roughly five months to deliver on this week's promises if the league is to emerge from bankruptcy on the timeline it has outlined. For now, LIV Golf's roughly one hundred contracted players are left waiting to see how much of their guaranteed money survives the restructuring, and what a scaled-down, player-owned version of the league will look like when it returns."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 14,
+    "slug": "china-trade-surplus-widens-119-billion",
+    "category": "business",
+    "categoryLabel": "Business",
+    "title": "China's Trade Surplus Widens to $119 Billion",
+    "dek": "China's exports jumped 25% in August on strong tech and auto demand, pushing its trade surplus higher just weeks before a planned Xi-Trump meeting.",
+    "image": "../images/china-trade-surplus-widens-119-billion.webp",
+    "authorId": "niamh-kelly",
+    "published": "2026-09-09T09:30:00.000Z",
+    "readTime": "5 min read",
+    "featured": false,
+    "video": false,
+    "takeaways": [
+      "China's exports rose 25% year-on-year in August, pushing its monthly trade surplus to $119.1 billion, up from $112.5 billion in July.",
+      "Exports to the United States jumped 34.4% to $42.5 billion, widening the bilateral surplus in China's favor to about $29.2 billion.",
+      "The data lands ahead of a planned late-September meeting between Xi Jinping and Donald Trump, with trade expected to top the agenda."
+    ],
+    "content": [
+      {
+        "heading": "Exports accelerate on tech and auto demand",
+        "paragraphs": [
+          "China's export engine picked up further steam in August, with shipments abroad rising twenty-five percent from a year earlier, according to customs data released this week. The figure came in broadly in line with economists' expectations and marked an acceleration from July's already strong 23.9 percent growth rate. Officials and analysts attributed the strength largely to robust global demand for autos and high-tech goods, including components tied to the ongoing worldwide build-out of artificial intelligence infrastructure.",
+          "The surge in exports helped push China's overall trade surplus for the month to $119.1 billion, up from $112.5 billion in July. For the first eight months of the year, the cumulative surplus has reached $805.5 billion, putting the annual total on track to top one trillion dollars for a second consecutive year, a scale that has repeatedly drawn criticism from trading partners in the US, Europe and beyond."
+        ]
+      },
+      {
+        "heading": "Imports lag behind expectations",
+        "paragraphs": [
+          "While exports outperformed, China's imports told a more mixed story. Inbound shipments rose 28.2 percent year-on-year, an acceleration from July's 27.5 percent pace but still short of the roughly thirty percent growth economists had forecast. The shortfall points to persistently tepid domestic demand, adding to pressure on Chinese policymakers who have faced mounting international calls to rebalance the economy away from export-led growth and toward household consumption.",
+          "Beijing has repeatedly said it is not deliberately seeking to maximize its trade surplus, even as the figures continue to climb. Growth in China's gross domestic product slowed to a three-year low in the second quarter, underscoring the extent to which exports have become the primary engine keeping the broader economy moving amid weaker investment and geopolitical headwinds."
+        ]
+      },
+      {
+        "heading": "A widening gap with the United States",
+        "paragraphs": [
+          "The bilateral trade relationship between China and the United States showed a particularly sharp swing in August. Chinese exports to the US totaled $42.5 billion, up 34.4 percent from a year earlier, a jump analysts partly attributed to a base effect after higher American tariffs had depressed exports in the same month last year. US exports to China, by contrast, came in at just $13.3 billion, leaving a bilateral surplus in China's favor of roughly $29.2 billion, up modestly from $28 billion in July.",
+          "Exports to other regions also grew solidly, with shipments to the European Union up 6.6 percent and exports to Southeast Asia and Latin America climbing 30.2 percent and 17.5 percent respectively, evidence that Chinese exporters have continued diversifying their customer base beyond traditional Western markets."
+        ]
+      },
+      {
+        "heading": "Trade data arrives ahead of a high-stakes summit",
+        "paragraphs": [
+          "The timing of the release is notable: it comes just weeks ahead of a planned meeting between Chinese leader Xi Jinping and US President Donald Trump, tentatively set for late September, though Beijing has yet to confirm an exact date. Trade is expected to dominate the agenda, building on a truce reached late last year that has largely held despite periodic friction between the two governments.",
+          "The two sides are reportedly exploring reciprocal tariff cuts on roughly thirty billion dollars' worth of goods from each side as part of preparations for the summit. Whether that groundwork translates into a broader agreement remains to be seen, but the fresh trade figures are likely to feature prominently in discussions, particularly given renewed scrutiny of China's surplus at recent gatherings of G20 finance ministers."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 15,
+    "slug": "intel-shares-jump-foundry-upgrade",
+    "category": "business",
+    "categoryLabel": "Business",
+    "title": "Intel Shares Jump on Foundry Upgrade",
+    "dek": "Intel shares rose more than 7% after an analyst upgrade citing a server chip shortage and its Terafab manufacturing partnership with SpaceX and Tesla.",
+    "image": "../images/intel-shares-jump-foundry-upgrade.webp",
+    "authorId": "niamh-kelly",
+    "published": "2026-09-09T13:00:00.000Z",
+    "readTime": "5 min read",
+    "featured": false,
+    "video": false,
+    "takeaways": [
+      "Intel shares rose more than 7% after Northland Capital Markets upgraded the stock to outperform, citing a shortage of server CPUs and Intel's foundry prospects.",
+      "The analyst set a $120 price target, implying more than 25% upside, pointing to Intel's Terafab semiconductor manufacturing partnership with SpaceX and Tesla in Texas.",
+      "The upgrade adds to a broader rally in chip and energy stocks this week as investors weighed supply constraints against escalating Middle East tensions."
+    ],
+    "content": [
+      {
+        "heading": "An unexpected vote of confidence",
+        "paragraphs": [
+          "Intel shares jumped more than seven percent this week after Northland Capital Markets upgraded the chipmaker to 'outperform' from 'market perform,' a notable shift in sentiment for a company that has spent much of the past two years working to convince investors it can turn around its beleaguered manufacturing business. Analyst Gus Richard set a price target of $120 on the stock, implying upside of roughly twenty-five percent from Friday's closing level.",
+          "The upgrade rested on two main pillars: a tightening market for server central processing units, which Richard said should support demand for Intel's existing product lines, and the company's Terafab partnership, a semiconductor manufacturing complex being built in Texas in conjunction with SpaceX and Tesla."
+        ]
+      },
+      {
+        "heading": "Betting on the Terafab partnership",
+        "paragraphs": [
+          "Central to Richard's thesis is the view that Intel's tie-up with SpaceX and Tesla will materially benefit the company's foundry business, the division responsible for manufacturing chips on behalf of outside customers. In his note to clients, Richard wrote that the partnership would help drive the scale Intel's process technology needs to compete more effectively against dominant contract manufacturers, a business Intel has struggled to build from scratch after decades of focusing primarily on chips for its own products.",
+          "Intel's push into contract manufacturing has been a centerpiece of the company's turnaround strategy, and landing marquee customers with the technical demands and volume of SpaceX and Tesla would represent a meaningful validation of that strategy, even as the facility itself remains under construction."
+        ]
+      },
+      {
+        "heading": "Part of a broader chip and energy rally",
+        "paragraphs": [
+          "Intel's jump came amid a broader rally across parts of the market this week, with global energy stocks also climbing to record highs as oil prices surged on escalating tensions in the Middle East. The simultaneous moves reflected a market grappling with competing forces: optimism over hardware demand tied to the ongoing AI infrastructure build-out on one hand, and rising input costs and geopolitical risk on the other.",
+          "Elsewhere in the chip sector, investors continued to weigh how the broader server CPU shortage cited in Intel's upgrade might benefit other manufacturers, even as the segment faces its own set of supply chain pressures tied to elevated demand for AI-related computing capacity."
+        ]
+      },
+      {
+        "heading": "A cautious road ahead",
+        "paragraphs": [
+          "Despite the sharp one-day pop, analysts covering Intel remain divided on the company's longer-term prospects, with some cautioning that the foundry business still needs to prove it can win business at scale from major fabless chip designers beyond its initial anchor partners. Intel's stock has experienced significant volatility over the past two years as the company has cycled through leadership changes and shifting strategic priorities.",
+          "For now, the upgrade offers a rare bright spot for a company that has spent much of the past several years fighting to reassure investors, employees and government partners that its bet on advanced domestic chip manufacturing will eventually pay off, with the Terafab project's progress likely to remain a key metric investors watch closely in the coming quarters."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 16,
+    "slug": "trump-presses-fed-cut-rates-ahead-meeting",
+    "category": "finance",
+    "categoryLabel": "Finance",
+    "title": "Trump Presses Fed to Cut Rates Ahead of Meeting",
+    "dek": "With markets pricing a 60% chance of a September rate hike, the White House has launched an unusually public campaign urging the Fed to hold or cut instead.",
+    "image": "../images/trump-presses-fed-cut-rates-ahead-meeting.webp",
+    "authorId": "sean-doran",
+    "published": "2026-09-09T08:15:00.000Z",
+    "readTime": "6 min read",
+    "featured": false,
+    "video": false,
+    "takeaways": [
+      "Markets are pricing roughly a 60% chance the Federal Reserve raises rates at its September 15-16 meeting, its first move since holding steady at 3.50%-3.75% for five straight meetings.",
+      "President Trump, the vice president, the Treasury secretary and a senior economic adviser have all publicly urged the Fed against a hike in the past week alone.",
+      "Three FOMC members already dissented at the July meeting in favor of raising rates, with policymakers citing inflation risks tied partly to the Middle East conflict and tariffs."
+    ],
+    "content": [
+      {
+        "heading": "An unusually coordinated pressure campaign",
+        "paragraphs": [
+          "With just over a week to go before the Federal Reserve's next policy meeting, the Trump administration has mounted an unusually broad and public campaign to steer the central bank away from raising interest rates. In the span of a single week, the president, the vice president, the Treasury secretary and one of the president's senior economic advisers have all weighed in, urging the Fed to hold rates steady or cut them rather than tighten policy further. The intensity of the push marks an escalation even by the standards of Trump's long-running criticism of the central bank's independence.",
+          "The campaign comes as investors have moved to price in a real possibility that the Fed will raise rates for the first time in years. Futures markets were showing roughly a sixty percent probability of a quarter-point hike at the September meeting, a notable shift after the central bank held its target range steady at 3.50 to 3.75 percent for five consecutive meetings."
+        ]
+      },
+      {
+        "heading": "A committee already split",
+        "paragraphs": [
+          "The Fed's own internal deliberations suggest the pressure campaign faces a genuinely divided committee rather than a unified board resistant to political pressure. At the July meeting, three members of the Federal Open Market Committee dissented from the decision to hold rates steady, preferring instead to raise the policy rate by twenty-five basis points, a signal that some officials already saw inflation risks as significant enough to warrant tightening.",
+          "Minutes from that meeting showed policymakers remained concerned about persistent inflation and the possibility that further rate increases could be required if price pressures failed to ease. Some officials judged that financial conditions may not yet be restrictive enough to bring inflation fully under control, while others noted that tighter market conditions were already doing part of that work independently of any further Fed action."
+        ]
+      },
+      {
+        "heading": "Oil and geopolitics complicate the picture",
+        "paragraphs": [
+          "Adding to the committee's dilemma, the July meeting took place before the most recent escalation in the Middle East, where fighting between the US and Iran has pushed oil prices back toward the $100-a-barrel mark. Higher energy costs feed directly into headline inflation figures, a dynamic that hawkish committee members are likely to cite as justification for a rate increase, even as the conflict itself introduces broader economic uncertainty that could argue for caution.",
+          "The Fed's chairman, who took over the role earlier this year, has downplayed the federal funds rate as the central bank's preferred tool for managing inflationary risk, instead pointing to a smaller Fed balance sheet as an alternative lever, while continuing to criticize the use of forward guidance as a policy tool. That framing has left investors somewhat uncertain about how the new leadership will ultimately balance competing signals heading into the meeting."
+        ]
+      },
+      {
+        "heading": "What's still to come before the decision",
+        "paragraphs": [
+          "Before the Fed's rate-setting committee convenes on September 15 and 16, officials and markets alike will get two more significant pieces of data: a producer price report and a consumer price report covering August, both due out this week. Those inflation readings are widely expected to be the last major input shaping the committee's decision, alongside July's stronger-than-expected jobs report, which showed payrolls growing far faster than economists had forecast.",
+          "For now, markets remain on edge, with the outcome of the meeting likely to have outsized effects across asset classes, from bond yields and mortgage rates to gold and cryptocurrency prices, all of which have already begun reacting to the shifting odds of a hike in the days leading up to the decision."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 17,
+    "slug": "gold-slips-fed-rate-hike-bets",
+    "category": "finance",
+    "categoryLabel": "Finance",
+    "title": "Gold Slips as Traders Bet on a Fed Rate Hike",
+    "dek": "Gold fell below $4,400 an ounce as rising odds of a Federal Reserve rate hike dented demand for the non-yielding metal, even with oil prices stoking inflation fears.",
+    "image": "../images/gold-slips-fed-rate-hike-bets.webp",
+    "authorId": "sean-doran",
+    "published": "2026-09-09T10:30:00.000Z",
+    "readTime": "5 min read",
+    "featured": false,
+    "video": false,
+    "takeaways": [
+      "Gold fell to $4,367.90 an ounce, down 0.84% on the day, as markets priced in roughly a 60% chance of a Federal Reserve rate hike at its September meeting.",
+      "The metal remains about 20% higher than a year ago, having briefly topped its inflation-adjusted 1980 record above $850 an ounce earlier this month.",
+      "The European Central Bank and Bank of Japan are also widely expected to raise rates this month, adding to pressure on non-yielding assets globally."
+    ],
+    "content": [
+      {
+        "heading": "A record-setting rally hits a speed bump",
+        "paragraphs": [
+          "Gold prices slipped for a second consecutive session this week, falling below the $4,400-an-ounce level after a run that had earlier pushed the metal past its inflation-adjusted all-time high. The precious metal fell to $4,367.90 an ounce, a decline of 0.84 percent from the previous day's close, extending losses from the prior session even as the metal remains roughly 20 percent higher than it was a year ago.",
+          "The pullback comes after a remarkable stretch for gold, which climbed past the psychologically significant $850-an-ounce inflation-adjusted record set back in January 1980, a level that stood for over four decades before this year's rally finally surpassed it. Analysts have pointed to a mix of geopolitical turmoil, a weakening dollar and sticky inflation as the key forces behind gold's surge over the past two years."
+        ]
+      },
+      {
+        "heading": "Rate hike bets weigh on the non-yielding metal",
+        "paragraphs": [
+          "The immediate driver behind this week's pullback is a shift in interest rate expectations. Traders are now pricing in roughly a sixty percent probability that the Federal Reserve will deliver a twenty-five-basis-point rate hike at its meeting later this month, a notable change following a stronger-than-expected jobs report that pointed to a resilient labor market. Because gold pays no interest or dividend, its appeal tends to fade relative to yield-bearing assets when interest rates rise or are expected to rise.",
+          "The dynamic is playing out beyond the United States as well. Both the European Central Bank and the Bank of Japan are widely expected to raise their own policy rates this month, adding to the broader headwind facing gold and other non-yielding assets across major currencies, even though gold's price strength this year has not been confined to dollar terms alone."
+        ]
+      },
+      {
+        "heading": "A tug-of-war with oil-driven inflation fears",
+        "paragraphs": [
+          "Complicating the picture is the fact that gold is traditionally viewed as a hedge against inflation, and inflationary pressures have been building elsewhere in markets. Oil prices have surged toward $100 a barrel amid escalating conflict between the US and Iran, a development that would normally be expected to support gold as investors seek protection against rising prices. This week's pullback suggests that, for now, rate expectations are outweighing inflation concerns in investors' calculations.",
+          "Market participants are awaiting two more pieces of data before the picture becomes clearer: a producer price report due Thursday and a consumer price report due Friday, both covering August. Those releases are expected to offer the clearest signal yet on how the Fed's policy committee will weigh persistent inflation pressures against a resilient jobs market when it meets later this month."
+        ]
+      },
+      {
+        "heading": "Where gold goes from here",
+        "paragraphs": [
+          "Despite the recent slide, gold's longer-term trajectory remains firmly upward, with prices up more than twenty-five percent since early 2025 according to market trackers, driven by a combination of central bank buying, safe-haven demand and persistent inflation concerns. Some market forecasters have floated the possibility of gold eventually reaching $6,000 an ounce, though such predictions remain speculative and contingent on how global monetary policy and geopolitical tensions evolve.",
+          "For now, analysts say gold traders are likely to remain highly sensitive to incoming inflation data and the outcome of the Fed's September meeting, with the metal's near-term direction hinging heavily on whether policymakers ultimately follow through on a rate increase or opt to hold steady given the elevated uncertainty stemming from the conflict in the Middle East."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 18,
+    "slug": "bitcoin-slides-below-80k-rate-hike-bets",
+    "category": "finance",
+    "categoryLabel": "Finance",
+    "title": "Bitcoin Slides Below $80K on Rate Hike Bets",
+    "dek": "Bitcoin fell toward $78,000 as rising Fed rate-hike odds and the US-Iran conflict weighed on crypto markets, even as spot ETF inflows stayed strongly positive.",
+    "image": "../images/bitcoin-slides-below-80k-rate-hike-bets.webp",
+    "authorId": "sean-doran",
+    "published": "2026-09-09T11:15:00.000Z",
+    "readTime": "5 min read",
+    "featured": false,
+    "video": false,
+    "takeaways": [
+      "Bitcoin fell to roughly $78,370, down 1.6% on the day and below the psychologically important $80,000 level, as Fed rate-hike odds topped 60%.",
+      "The decline came alongside broader softness across major tokens, with ethereum, solana and XRP all posting losses in the same session.",
+      "Despite the pullback, US spot bitcoin ETFs recorded roughly $987 million in inflows over the prior week, and bitcoin remains up about 22% over the past month."
+    ],
+    "content": [
+      {
+        "heading": "Crypto markets retreat alongside rate bets",
+        "paragraphs": [
+          "Bitcoin fell below the closely watched $80,000 threshold this week, dropping to around $78,370 during morning trading, a decline of roughly 1.6 percent from the prior session's open. The pullback extended a slide that began over the Labor Day holiday weekend, when thin trading conditions allowed the world's largest cryptocurrency to swing between roughly $78,700 and $80,430 before ultimately settling below the psychologically significant $80,000 mark.",
+          "Ethereum, the second-largest cryptocurrency by market value, held up somewhat better, slipping about one percent to trade near $2,474. Other major tokens fared worse: solana dropped more than two percent, while XRP declined nearly two percent in the same stretch, according to market data trackers monitoring the sector's largest coins."
+        ]
+      },
+      {
+        "heading": "Monetary policy, not panic, driving the move",
+        "paragraphs": [
+          "Analysts tracking the crypto market have largely attributed the decline to shifting expectations around Federal Reserve policy rather than any crypto-specific catalyst. With traders now pricing in roughly a sixty percent chance of a rate hike at the Fed's September meeting, following a stronger-than-expected jobs report, risk assets broadly have come under pressure, and bitcoin has proven no exception to that dynamic.",
+          "The renewed fighting between the US and Iran has added a second layer of pressure, pushing oil prices back toward $100 a barrel and heightening broader inflation concerns just as the Fed prepares to make its rate decision. Higher expected inflation combined with a greater chance of tighter monetary policy has created a mixed backdrop that has left crypto traders cautious in the run-up to the meeting."
+        ]
+      },
+      {
+        "heading": "Institutional demand remains resilient",
+        "paragraphs": [
+          "Despite the pullback, underlying institutional demand for bitcoin has shown few signs of retreating. US spot bitcoin exchange-traded funds recorded roughly $987 million in net inflows over the prior seven-day period, a figure that suggests larger investors continue to view recent price weakness as a buying opportunity rather than a reason to exit positions. Corporate accumulation has also continued, with French company Capital B disclosed as purchasing 376 bitcoin worth about $29 million, lifting its total treasury holdings to 3,521 bitcoin.",
+          "Even after the recent slide, bitcoin remains up approximately 22 percent over the past month, reflecting a sharp rally through much of August that has only partially unwound in the days since. Open interest in bitcoin derivatives has climbed alongside the price swings, reaching roughly $53 billion, up about 14 percent over the past month, a sign that leveraged positioning has increased even as spot prices have softened."
+        ]
+      },
+      {
+        "heading": "Key levels traders are watching",
+        "paragraphs": [
+          "Technical analysts have identified a trading range between roughly $77,500 and $82,200 as the key band to watch in the near term. A daily close below the lower end of that range could open the door to a deeper pullback toward $75,000, while a confirmed breakout above resistance in the $82,000 to $83,200 area could set up a move toward $85,000 and eventually the $88,000 to $90,000 zone, according to chart-based analysis circulating among crypto traders.",
+          "With this week's producer and consumer price reports due before the Fed's meeting, crypto markets are likely to remain sensitive to incoming inflation data in the days ahead, alongside any further developments in the Middle East conflict that has already begun rippling through energy, precious metals and digital asset markets alike."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 19,
+    "slug": "mortgage-rates-tick-up-oil-prices-climb",
+    "category": "finance",
+    "categoryLabel": "Finance",
+    "title": "Mortgage Rates Tick Up as Oil Prices Climb",
+    "dek": "The 30-year mortgage rate hovered near 6.7% as rising Treasury yields, driven partly by oil prices near $100 a barrel, kept borrowing costs elevated.",
+    "image": "../images/mortgage-rates-tick-up-oil-prices-climb.webp",
+    "authorId": "sean-doran",
+    "published": "2026-09-09T09:00:00.000Z",
+    "readTime": "5 min read",
+    "featured": false,
+    "video": false,
+    "takeaways": [
+      "The average 30-year fixed mortgage rate sat near 6.67% to 6.74% this week, with the 10-year Treasury yield climbing toward 4.78% as oil prices approached $100 a barrel.",
+      "The Mortgage Bankers Association and Fannie Mae both expect 30-year rates to hover between roughly 6.6% and 6.8% through the rest of 2026.",
+      "Rates are still down more than half a point since late May, helping drive a more than 62% year-over-year jump in refinance applications."
+    ],
+    "content": [
+      {
+        "heading": "Rates hold in a stubborn range",
+        "paragraphs": [
+          "Mortgage rates remained stuck in a narrow but elevated band this week, with the average 30-year fixed rate hovering between about 6.67 percent and 6.74 percent depending on the data source, as the market absorbed a mix of holiday-thinned trading and fresh inflationary pressure from surging oil prices. The 15-year fixed rate sat in a similar pattern, ranging from roughly 6.01 percent to 6.11 percent across different daily surveys.",
+          "Rate movements have been modest day to day but meaningful over a longer horizon: the 30-year benchmark is running roughly half a percentage point higher than a year ago, even after a partial retreat from the one-year high touched in late August, when the rate briefly topped 6.78 percent following a stronger-than-expected jobs report."
+        ]
+      },
+      {
+        "heading": "Oil prices feed through to Treasury yields",
+        "paragraphs": [
+          "Much of the upward pressure on mortgage pricing this week traces back to the bond market rather than housing-specific factors. Mortgage rates don't move in lockstep with the Fed's benchmark rate; instead, they tend to track the 10-year US Treasury yield, which climbed toward 4.78 percent as oil prices pushed toward the $100-a-barrel mark amid escalating conflict between the United States and Iran. Rising energy costs feed directly into inflation expectations, which in turn push Treasury yields, and by extension mortgage rates, higher.",
+          "That transmission mechanism means mortgage borrowers have effectively been paying a price for geopolitical instability thousands of miles away, even though the immediate cause of this week's oil price spike, strikes on Saudi energy infrastructure and retaliatory US action against Iranian tankers, has nothing directly to do with US housing markets."
+        ]
+      },
+      {
+        "heading": "Refinancing activity picks up regardless",
+        "paragraphs": [
+          "Despite rates remaining well above the three to four percent levels borrowers grew accustomed to earlier in the decade, refinance activity has picked up meaningfully compared with a year ago. Rates are down more than half a percentage point since the end of May, a decline that has been enough to spark a more than 62 percent year-over-year increase in refinance applications, according to industry data cited by mortgage analysts.",
+          "For homeowners who locked in rates at the market's recent peak, even a modest half-point decline can translate into meaningful monthly savings, which analysts say helps explain the surge in refinancing interest even as the broader rate environment remains far from historically cheap."
+        ]
+      },
+      {
+        "heading": "Forecasters see little relief through 2027",
+        "paragraphs": [
+          "Looking further out, major housing finance forecasters are not projecting significant relief anytime soon. The Mortgage Bankers Association expects the 30-year rate to range between 6.60 percent and 6.70 percent through the remainder of 2026, with a similar 6.70 percent forecast carrying into 2027. Fannie Mae's outlook is slightly more cautious, projecting an average rate between 6.70 percent and 6.80 percent for both the rest of this year and into next.",
+          "With the Federal Reserve's target range still at 3.50 to 3.75 percent and a rate decision looming later this month, mortgage analysts say the coming weeks, particularly this week's producer and consumer price reports, will be pivotal in determining whether rates drift further upward or find room to ease as markets get a clearer read on the inflation outlook."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 20,
+    "slug": "us-jobs-report-fuels-fed-rate-hike-bets",
+    "category": "finance",
+    "categoryLabel": "Finance",
+    "title": "US Jobs Report Fuels Bets on a Fed Rate Hike",
+    "dek": "August payrolls grew far faster than expected, tripling forecasts and hardening market bets that the Federal Reserve will raise rates this month.",
+    "image": "../images/us-jobs-report-fuels-fed-rate-hike-bets.webp",
+    "authorId": "sean-doran",
+    "published": "2026-09-09T14:00:00.000Z",
+    "readTime": "5 min read",
+    "featured": false,
+    "video": false,
+    "takeaways": [
+      "US nonfarm payrolls grew by 162,000 in August, roughly three times the 53,000 economists had forecast, while unemployment held steady at 4.1%.",
+      "Upward revisions to June and July payroll figures added further evidence of labor market strength heading into the Fed's September meeting.",
+      "Stocks fell on the news as investors weighed the stronger data against the increased likelihood of a Fed rate hike this month."
+    ],
+    "content": [
+      {
+        "heading": "Payrolls blow past expectations",
+        "paragraphs": [
+          "The US labor market delivered a far stronger reading than economists had anticipated in its latest monthly snapshot, with nonfarm payrolls growing by 162,000 in August, more than triple the 53,000 jobs that had been forecast in a Dow Jones survey of economists. The unemployment rate held steady at 4.1 percent, matching expectations and underscoring a labor market that has continued to add jobs at a healthy clip even amid elevated interest rates and mounting trade tensions.",
+          "Adding to the report's strength, the Bureau of Labor Statistics revised figures for both June and July higher, meaning the underlying trend in job growth over the summer was stronger than initially reported. The combination of a large August beat and positive revisions left little room for economists to dismiss the report as a one-off anomaly."
+        ]
+      },
+      {
+        "heading": "Markets react with a rate-hike repricing",
+        "paragraphs": [
+          "Financial markets moved quickly to reprice the odds of a Federal Reserve rate hike following the report's release. Futures markets shifted to reflect a substantially higher probability that the Fed's policy committee would raise its benchmark rate at the September meeting, a marked change from earlier expectations that the central bank might hold steady or even begin easing policy given ongoing concerns about the impact of tariffs on economic growth.",
+          "Major stock indexes fell in the immediate aftermath of the report, with the Dow Jones Industrial Average, S&P 500 and Nasdaq Composite all posting losses as investors weighed the implications of a hotter labor market against the increased likelihood that borrowing costs would rise rather than fall in the near term."
+        ]
+      },
+      {
+        "heading": "A complicated signal for the Fed",
+        "paragraphs": [
+          "The strong jobs data arrives at a delicate moment for the Federal Reserve, which must weigh evidence of a resilient labor market against signs of persistent inflation, some of it stemming from tariffs and, more recently, from oil prices pushed higher by conflict in the Middle East. A robust labor market typically gives the central bank more room to raise rates without triggering a sharp rise in unemployment, strengthening the case made by the three FOMC members who already dissented in favor of a hike at the July meeting.",
+          "At the same time, the report complicates the political pressure campaign from the White House, which has pushed the Fed to cut rates in recent weeks. A labor market growing well above trend gives Fed officials a data-driven rationale for resisting that pressure, since a primary justification for rate cuts, a cooling job market, appears considerably weaker than it did just a month earlier."
+        ]
+      },
+      {
+        "heading": "What comes next",
+        "paragraphs": [
+          "With the jobs report now in hand, attention turns to this week's inflation data, including producer and consumer price reports covering August, as the final major inputs before the Fed's September 15-16 meeting. Economists say a hot inflation reading combined with August's strong payroll growth would make a rate hike considerably more likely, while a cooler-than-expected inflation print could reopen the door to a hold.",
+          "For now, markets are treating the jobs report as a significant data point tilting the balance toward tighter policy, with bond yields, mortgage rates and risk assets across the board already adjusting to the shifting odds in the days since the report's release."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 21,
+    "slug": "nfl-2026-season-kicks-off-super-bowl-rematch",
+    "category": "sports",
+    "categoryLabel": "Sports",
+    "title": "NFL 2026 Season Kicks Off With Super Bowl Rematch",
+    "dek": "The Seattle Seahawks host the New England Patriots in a Super Bowl LX rematch as the 2026 NFL season opens, with a championship banner unveiling before kickoff.",
+    "image": "../images/nfl-2026-season-kicks-off-super-bowl-rematch.webp",
+    "authorId": "maeve-oconnell",
+    "published": "2026-09-09T15:00:00.000Z",
+    "readTime": "5 min read",
+    "featured": false,
+    "video": false,
+    "takeaways": [
+      "The Seattle Seahawks host the New England Patriots at Lumen Field on Wednesday night in the 2026 NFL Kickoff Game, a rematch of Super Bowl LX, which Seattle won 29-13.",
+      "It marks just the third Week 1 Super Bowl rematch in NFL history and the first NFL Kickoff Game rematch in a decade.",
+      "Seattle will unveil its championship banner before kickoff, with cornerback Christian Gonzalez's new four-year, $135 million extension a major storyline entering the game."
+    ],
+    "content": [
+      {
+        "heading": "A rematch to open the season",
+        "paragraphs": [
+          "The 2026 NFL season officially begins Wednesday night with a matchup that feels more like a playoff rematch than a Week 1 opener. The Seattle Seahawks, fresh off their Super Bowl LX title, host the New England Patriots at Lumen Field in the league's official Kickoff Game, seven months after the two teams met in the championship game in Santa Clara. Seattle won that meeting 29-13, and Wednesday's rematch marks just the third time in NFL history that the two Super Bowl participants have met again in the following season's opener.",
+          "The occasion carries extra pageantry: before kickoff, the Seahawks will unveil their championship banner, a ceremony that will play out in front of a Patriots team looking to show its rapid turnaround from last season was no fluke. New England finished 14-3 in coach Mike Vrabel's first year at the helm, an improvement tied for the largest single-season turnaround in league history after going 4-13 the year before."
+        ]
+      },
+      {
+        "heading": "Key matchups to watch",
+        "paragraphs": [
+          "Among the most anticipated individual battles is the matchup between Seattle's Jaxon Smith-Njigba, the reigning Offensive Player of the Year, and New England cornerback Christian Gonzalez. The showdown gained extra significance this week when Gonzalez agreed to a four-year, $135 million contract extension, a deal that resolved a months-long dispute and had left questions about whether the Pro Bowl corner would even suit up for the opener.",
+          "Both rosters have shifted since the Super Bowl. New England added marquee free agent A.J. Brown to bolster its receiving corps around quarterback Drake Maye, while Seattle will be without Super Bowl LX MVP running back Kenneth Walker III, who departed for Kansas City in free agency during the offseason."
+        ]
+      },
+      {
+        "heading": "Historical weight behind the rematch",
+        "paragraphs": [
+          "Wednesday's game is only the twelfth regular-season meeting between teams that faced off in the previous season's Super Bowl, according to NFL research, and history has favored the reigning champion in that spot: the defending Super Bowl winner has gone 8-3 in the previous eleven such rematches. Seattle will look to add to that trend on home turf, where the Seahawks' defense and running game dominated the teams' last meeting.",
+          "The broadcast carries significance for NBC as well, marking the network's twenty-first consecutive NFL season opener and the official launch of its twenty-first season of Sunday Night Football coverage, with play-by-play announcer Mike Tirico and analyst Cris Collinsworth calling the action."
+        ]
+      },
+      {
+        "heading": "Setting the tone for the season",
+        "paragraphs": [
+          "Beyond the immediate result, Wednesday's game is expected to set an early tone for both franchises' 2026 campaigns. A Patriots win would offer an emphatic statement that New England's turnaround under Vrabel is sustainable at the highest level, while a Seahawks victory would reinforce Seattle's status as the team to beat in the NFC heading into a title defense.",
+          "With the rest of the league's Week 1 slate following over the coming days, Wednesday night's Kickoff Game gives fans their first look at how both Super Bowl LX participants have evolved since February, and an early signal of how the rest of the season's contenders might need to adjust to keep pace with the league's two most recent finalists."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 22,
+    "slug": "tiafoe-completes-epic-comeback-us-open",
+    "category": "sports",
+    "categoryLabel": "Sports",
+    "title": "Tiafoe Completes Epic Comeback at US Open",
+    "dek": "Frances Tiafoe rallied from two sets down to beat Alex Michelsen in a five-set thriller, reaching his third US Open semifinal in five years.",
+    "image": "../images/tiafoe-completes-epic-comeback-us-open.webp",
+    "authorId": "maeve-oconnell",
+    "published": "2026-09-09T13:30:00.000Z",
+    "readTime": "5 min read",
+    "featured": false,
+    "video": false,
+    "takeaways": [
+      "Frances Tiafoe defeated unseeded Alex Michelsen 5-7, 3-6, 7-5, 6-3, 7-6(6) after trailing two sets to none, marking the first men's US Open quarterfinal comeback from two sets down since Roger Federer in 2014.",
+      "Tiafoe reached his third US Open semifinal in five years and will face the winner of Carlos Alcaraz vs. Ben Shelton.",
+      "In the women's draw, Qinwen Zheng pulled off her second straight epic comeback, rallying from 0-5 down to beat former champion Iga Swiatek and reach the quarterfinals."
+    ],
+    "content": [
+      {
+        "heading": "A five-set thriller for the ages",
+        "paragraphs": [
+          "Frances Tiafoe produced the biggest comeback of his career on Tuesday night at Arthur Ashe Stadium, rallying from two sets down to defeat fellow American Alex Michelsen 5-7, 3-6, 7-5, 6-3, 7-6 (10-6) in an all-American US Open quarterfinal. The victory sends Tiafoe into his third US Open semifinal in five years, where he'll face the winner of a late match between second seed Carlos Alcaraz and eighth-seeded American Ben Shelton.",
+          "The win carried historical weight: it marked the first time since 2014, when Roger Federer came back from two sets down against Gael Monfils, that a men's US Open quarterfinal had been decided by such a comeback. Only three other such rallies have occurred at Flushing Meadows during the Open era, underscoring just how rare Tuesday's turnaround was."
+        ]
+      },
+      {
+        "heading": "A slow start turns into a statement finish",
+        "paragraphs": [
+          "Tiafoe struggled badly through the opening stretch of the match, producing a first-serve percentage below forty percent across the first three sets while Michelsen, the tournament's only remaining man not to have dropped a set, used his own serve to cruise to a two-set lead. Michelsen appeared well on his way to a first career Grand Slam semifinal after breaking early in the third set to push his advantage to 5-3.",
+          "But Tiafoe, who entered the match with a 2-17 career record at majors when trailing two sets to none, found another gear. He clawed back to win the third set 7-5, handing Michelsen his first set loss of the tournament, before taking the fourth set and grinding out a tense final-set tiebreak to complete the reversal, sending the Ashe Stadium crowd, chanting 'One, two, three, FOE' throughout, into a frenzy."
+        ]
+      },
+      {
+        "heading": "Zheng's own miracle run",
+        "paragraphs": [
+          "Tiafoe's comeback came a day after another stunning turnaround on the same court, as China's Qinwen Zheng produced her second consecutive epic rally to reach the women's quarterfinals. Trailing 0-5 in the opening set against two-time major champion Iga Swiatek, Zheng won seven straight games to steal the set before closing out a 7-5, 6-3 victory that left a shocked Swiatek in tears as she left the court.",
+          "It was the second such comeback for Zheng in as many rounds, having also rallied from 0-5 down in a deciding set to beat Madison Keys days earlier. The result advanced Zheng to a US Open quarterfinal for the third time in her career, though she has never previously progressed past that stage."
+        ]
+      },
+      {
+        "heading": "What's next in New York",
+        "paragraphs": [
+          "With the men's semifinal picture nearly set, attention now turns to whether Tiafoe can carry his momentum into a potential first career Grand Slam final appearance. On the women's side, Zheng's continued run adds another compelling storyline to a tournament that has already delivered a string of dramatic upsets and comebacks through the quarterfinal stage.",
+          "The marathon nature of several of this year's matches, including a fourth-round contest that broke the record for most points played in US Open history, has added to the sense that the 2026 tournament is shaping up as one of the more physically grueling and unpredictable editions in recent memory heading into the final rounds."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 23,
+    "slug": "mbappe-fires-real-madrid-past-inter-milan",
+    "category": "sports",
+    "categoryLabel": "Sports",
+    "title": "Mbappe Fires Real Madrid Past Inter Milan",
+    "dek": "Kylian Mbappe scored his fifth goal of the season as Real Madrid held off a late Inter Milan rally to win 2-1 in their Champions League opener at the Bernabeu.",
+    "image": "../images/mbappe-fires-real-madrid-past-inter-milan.webp",
+    "authorId": "maeve-oconnell",
+    "published": "2026-09-09T06:00:00.000Z",
+    "readTime": "5 min read",
+    "featured": false,
+    "video": false,
+    "takeaways": [
+      "Real Madrid beat Inter Milan 2-1 at the Santiago Bernabeu in their Champions League league-phase opener, with Kylian Mbappe and Federico Valverde scoring first-half goals.",
+      "Mbappe's strike moved him level with club legend Raul on 71 Champions League goals, making him the competition's fifth-highest all-time scorer.",
+      "Inter substitute Carlos Augusto pulled a goal back late, and Jose Mourinho earned a win against one of his former clubs, whom he led to Champions League glory in 2010."
+    ],
+    "content": [
+      {
+        "heading": "A nervy win to open the campaign",
+        "paragraphs": [
+          "Real Madrid began their 2026-27 Champions League campaign with a hard-fought 2-1 win over Inter Milan at the Santiago Bernabeu, a result that offered an immediate response after Friday's shock 1-0 defeat at Real Betis in La Liga. Kylian Mbappe opened the scoring in the fourteenth minute, converting after Inter goalkeeper hesitated inside his own box, before Federico Valverde doubled Madrid's lead shortly after by pouncing on the resulting loose ball.",
+          "Mbappe's goal carried historical significance beyond the three points: it moved the French forward level with Real Madrid great Raul on 71 Champions League goals, making him outright the competition's fifth-highest all-time scorer. It was Mbappe's fifth goal of the season across all competitions."
+        ]
+      },
+      {
+        "heading": "Inter push back but fall short",
+        "paragraphs": [
+          "Despite falling behind early, Inter Milan were far from passive, forcing goalkeeper Thibaut Courtois into saves from both Marcus Thuram and Lautaro Martinez before conceding, and later hitting the crossbar through Curtis Jones just before halftime. After the break, Inter continued to create chances, with Thuram again proving the visitors' most dangerous threat, before substitute Carlos Augusto finally broke through, converting a Lautaro Martinez cutback to halve the deficit and set up a tense finish.",
+          "Statistically, the underlying numbers told a complicated story: Madrid finished with the superior expected-goals tally of 2.91 to Inter's 1.78, though much of that gap stemmed from opportunities Inter effectively gifted the hosts in the first half rather than clear-cut Madrid dominance throughout."
+        ]
+      },
+      {
+        "heading": "A meaningful night for Mourinho",
+        "paragraphs": [
+          "The result carried added significance for Real Madrid manager Jose Mourinho, who guided Inter to Champions League glory in 2010 and faced his former club for the first time since taking over in Madrid. Opposing manager Cristian Chivu was himself part of that title-winning Inter squad from sixteen years earlier, adding a layer of shared history to the encounter at the same stadium where Mourinho's Inter side beat Bayern Munich in that 2010 final.",
+          "Mourinho made two changes to his starting lineup for the match, bringing in Trent Alexander-Arnold and Brahim Diaz in place of the suspended pairing of Eduardo Camavinga and Arda Guler, adjustments that factored into a first half in which Madrid capitalized on Inter's uncharacteristic defensive lapses."
+        ]
+      },
+      {
+        "heading": "Work still to do, Mourinho admits",
+        "paragraphs": [
+          "Despite the win, observers were quick to note that Madrid were fortunate to come away with all three points given how the underlying performance played out, a sign, according to analysts covering the match, that there remains significant work ahead if Mourinho's side hopes to mount a serious Champions League title challenge this season.",
+          "The victory nonetheless gives Real Madrid a winning start to the newly formatted league phase, while Inter will look to bounce back in their next continental fixture as both sides continue balancing European ambitions with their respective domestic campaigns in LaLiga and Serie A."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 24,
+    "slug": "solheim-cup-tees-off-europe-seeking-revenge",
+    "category": "sports",
+    "categoryLabel": "Sports",
+    "title": "Solheim Cup Tees Off With Europe Seeking Revenge",
+    "dek": "The 2026 Solheim Cup begins Friday at Bernardus Golf in the Netherlands, with Europe looking to reclaim the trophy on home soil behind stars Charley Hull and Lottie Woad.",
+    "image": "../images/solheim-cup-tees-off-europe-seeking-revenge.webp",
+    "authorId": "maeve-oconnell",
+    "published": "2026-09-09T12:30:00.000Z",
+    "readTime": "5 min read",
+    "featured": false,
+    "video": false,
+    "takeaways": [
+      "The 20th Solheim Cup begins Friday at Bernardus Golf in Cromvoirt, Netherlands, with Europe, captained by Anna Nordqvist, hosting the United States, captained by Angela Stanford.",
+      "Team USA won the 2024 edition 15.5-12.5 in Virginia, its first Solheim Cup win since 2017, and now holds an 11-8 advantage in the biennial series.",
+      "The last three Solheim Cups held in Europe have produced the closest finishes in the event's history, including the first-ever 14-14 tie in 2023."
+    ],
+    "content": [
+      {
+        "heading": "Europe hosts with revenge on its mind",
+        "paragraphs": [
+          "The 2026 Solheim Cup gets underway Friday at Bernardus Golf in Cromvoirt, Netherlands, with Europe looking to reclaim the trophy on home soil two years after suffering a 15.5-12.5 defeat to the United States in Virginia. That result snapped a run of European dominance and handed the Americans their first win in the biennial contest since 2017, leaving captain Anna Nordqvist's side with a clear mission heading into this year's edition.",
+          "The three-day event runs through Sunday, with the opening two days featuring foursomes and four-ball match play before Sunday's decisive singles session, mirroring the format familiar to fans of the men's Ryder Cup. Twelve players from each side will compete across a maximum of twenty-eight points, with 14.5 points needed to win the cup outright."
+        ]
+      },
+      {
+        "heading": "Star power on both sides",
+        "paragraphs": [
+          "England's Charley Hull headlines Team Europe as one of the competition's most experienced stalwarts, having already claimed a Ladies European Tour title this year at the PIF Saudi Ladies International. She'll be joined by Lottie Woad, who turned professional a little over a year ago and has already climbed into the world's top ten, making her Solheim Cup debut alongside fellow rookies among Nordqvist's captain's picks.",
+          "For the Americans, Nelly Korda enters as the marquee name after a stretch of dominant form that saw her win four LPGA Tour events and finish no worse than eighth across a ten-tournament run earlier this season, along with a successful title defense at the US Women's Open. Angela Stanford, taking charge of her first US Solheim Cup team after three stints as an assistant captain, will lean heavily on that form as she looks to extend America's current era of success in the event."
+        ]
+      },
+      {
+        "heading": "A history of nail-biters in Europe",
+        "paragraphs": [
+          "History suggests this year's edition could once again go down to the wire. The last three Solheim Cups staged on European soil have produced the three closest finishes in the competition's twenty-edition history, with both the 2015 and 2019 contests decided by a single point and the 2023 edition at Finca Cortesin in Spain producing the first 14-14 tie ever recorded in the event.",
+          "Of the nine previous editions held in Europe, the home side has won five and lost three, giving Nordqvist's team a modest historical edge in front of what is expected to be a passionate crowd at Bernardus, a Kyle Phillips-designed course making its Solheim Cup debut this week."
+        ]
+      },
+      {
+        "heading": "Setting the stage for Sunday",
+        "paragraphs": [
+          "The tournament follows the conclusion of Tuesday's Ping Junior Solheim Cup, also contested at Bernardus for the first time in the junior event's history, which Team USA won 13-11 after holding off a furious late rally from their European counterparts. Several past junior competitors, including Rose Zhang and Nelly Korda herself, have gone on to represent their countries in the senior event, underscoring the pipeline between the two competitions.",
+          "With qualifying now complete and both twelve-player rosters set, attention turns fully to Friday's opening foursomes session, where fans on both sides of the Atlantic will be watching closely to see whether Europe can deliver the bounce-back performance it has been chasing since its defeat two years ago."
+        ]
+      }
+    ]
+  },
+  {
+    "id": 25,
+    "slug": "ryan-garcia-defends-title-against-conor-benn",
+    "category": "sports",
+    "categoryLabel": "Sports",
+    "title": "Ryan Garcia Defends Title Against Conor Benn",
+    "dek": "Ryan Garcia makes the first defense of his WBC welterweight title against Conor Benn on September 12 in Las Vegas, headlining a stacked Mexican Independence Day card.",
+    "image": "../images/ryan-garcia-defends-title-against-conor-benn.webp",
+    "authorId": "maeve-oconnell",
+    "published": "2026-09-09T16:00:00.000Z",
+    "readTime": "5 min read",
+    "featured": false,
+    "video": false,
+    "takeaways": [
+      "Ryan Garcia defends his WBC welterweight title against Conor Benn on Saturday, September 12, at T-Mobile Arena in Las Vegas, streaming live on Paramount+.",
+      "The fight fills the Mexican Independence Day weekend slot originally reserved for Canelo Alvarez's title challenge against Christian Mbilli, which was postponed to late October.",
+      "Benn, son of former champion Nigel Benn, is fighting for his first world title after avenging his loss to Chris Eubank Jr. and beating former champion Regis Prograis."
+    ],
+    "content": [
+      {
+        "heading": "A title fight fills a marquee weekend",
+        "paragraphs": [
+          "Ryan Garcia will make the first defense of his WBC welterweight championship against Britain's Conor Benn on Saturday, September 12, at T-Mobile Arena in Las Vegas, a matchup that has taken on added significance after stepping into the Mexican Independence Day weekend slot long associated with Canelo Alvarez. Alvarez's own title challenge against Christian Mbilli, originally scheduled for the same date and venue, was postponed to late October, opening the door for Garcia and Benn to headline boxing's biggest weekend of the year instead.",
+          "Garcia, twenty-seven, captured the WBC belt in February with a dominant unanimous decision over Mario Barrios at the same T-Mobile Arena, a win that offered stability after a turbulent few years in and out of the ring. Saturday's fight returns him to the venue where he won the title for his first defense of the championship."
+        ]
+      },
+      {
+        "heading": "Benn chasing history in the US",
+        "paragraphs": [
+          "For Conor Benn, the fight represents a chance to accomplish something his father, former middleweight and super-middleweight champion Nigel Benn, achieved decades earlier: winning a world title on American soil. The twenty-nine-year-old earned his shot after avenging his lone professional loss to Chris Eubank Jr. and following that up with a win over former world champion Regis Prograis on the undercard of Tyson Fury's comeback bout in April.",
+          "Benn enters the bout with a 26-1 professional record, and promoters have framed the matchup as a genuine clash of styles, pitting Garcia's power and boxing ability against Benn's activity and pressure, with betting markets making Garcia a significant favorite at odds of -370 to Benn's +275."
+        ]
+      },
+      {
+        "heading": "A stacked undercard",
+        "paragraphs": [
+          "The main event is supported by a deep undercard featuring several title fights of its own. In the co-main event, unbeaten cruiserweight champion Jai Opetaia defends his Zuffa Boxing and Ring Magazine titles against Noel Mikaelyan, while other bouts on the nine-fight card include lightweight Mark Magsayo facing Andres Cortes and welterweights Jose Ramirez and Alexis Rocha squaring off in a separate matchup.",
+          "The event streams exclusively on Paramount+ in the United States at no additional cost beyond a standard subscription, a notable departure from the pay-per-view model that has traditionally accompanied cards of this magnitude, with the promotion emphasizing broad accessibility for what is expected to be one of the year's most-watched boxing events."
+        ]
+      },
+      {
+        "heading": "What a win would mean",
+        "paragraphs": [
+          "A victory for Garcia would cement his position as one of the sport's biggest active stars and validate his rapid ascent back to championship level after a career marked by both dazzling performances and personal setbacks. For Benn, an upset win would rank among the biggest results in recent British boxing history and would immediately establish him as a mainstream force in the stacked welterweight division.",
+          "With Alvarez's own return now pushed to late October, Saturday's Garcia-Benn card effectively inherits the mantle of the sport's marquee Mexican Independence Day weekend event, giving both men a rare opportunity to headline boxing's biggest annual showcase in the champion's absence."
+        ]
+      }
+    ]
   }
 ]
